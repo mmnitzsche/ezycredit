@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Olá, gostaria de saber se a EasyCred oferece empréstimos pessoais. Preciso de algo em torno de R$15.000."
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:05:00",
+    "tipo": "resposta do vendedor",
+    "conteudo": "V: Olá! Seja bem-vindo à EasyCred! Sim, oferecemos empréstimos pessoais. Para avaliarmos sua solicitação, preciso de algumas informações básicas. Qual o seu nome completo?"
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:10:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Meu nome é João Silva. Tenho 35 anos e trabalho na área de TI."
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:15:00",
+    "tipo": "resposta do vendedor",
+    "conteudo": "V: Ótimo, João. Além do seu nome, preciso saber seu CPF, data de nascimento e renda mensal."
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:20:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: CPF: 123.456.789-10, Data de Nascimento: 10/05/1989, Renda Mensal: R$6.000."
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:25:00",
+    "tipo": "resposta do vendedor",
+    "conteudo": "V: Perfeito. Agora, preciso de algumas informações sobre seu endereço e, para uma análise mais precisa, qual o valor exato que você busca emprestar e o prazo máximo de pagamento que você considera?"
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:30:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: R$15.000, prazo máximo de 36 meses."
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:35:00",
+    "tipo": "cancelamento",
+    "conteudo": "C: Eu não quero mais prosseguir com o empréstimo. Agradeço."
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:40:00",
+    "tipo": "helpdesk",
+    "conteudo": "C: Olá, estou com dificuldades para acessar minha conta no aplicativo. Pode me ajudar?"
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:45:00",
+    "tipo": "resposta do vendedor",
+    "conteudo": "V: Claro! Verifique se o código de acesso está correto e se o CAPS (Código de Acesso de Segurança) está atualizado. Se o problema persistir, podemos verificar o seu acesso remotamente."
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:50:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Boa tarde, gostaria de saber se é possível um empréstimo com garantia de imóvel."
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:55:00",
+    "tipo": "resposta do vendedor",
+    "conteudo": "V: Sim, oferecemos empréstimos com garantia de imóvel. Para isso, precisamos de informações sobre o imóvel, como endereço completo e valor de mercado."
+  }
+]
