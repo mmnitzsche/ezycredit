@@ -1,0 +1,2690 @@
+[
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Olá, boa tarde! Gostaria de saber mais sobre um pedido de crédito com a EzyCredit.",
+    "chat_id": 1
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Boa tarde! Seja bem-vindo à EzyCredit! Em que posso ajudar? Para começarmos, qual o valor aproximado do crédito que você está buscando?",
+    "chat_id": 1
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:02:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Eu gostaria de um crédito de aproximadamente R$ 5.000,00.",
+    "chat_id": 1
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:03:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Ótimo! R$ 5.000,00. Para darmos andamento, preciso de algumas informações para análise de crédito. Poderia me informar sua data de nascimento e CPF?",
+    "chat_id": 1
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:04:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Meu nome é Ana Paula Silva, CPF 123.456.789-00 e data de nascimento 15/03/1990.",
+    "chat_id": 1
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:05:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Perfeito, Ana Paula. Obrigado pelas informações. Agora, preciso saber para qual finalidade você pretende utilizar esse crédito. É para investimento, compra de bens, ou outra finalidade?",
+    "chat_id": 1
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:06:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: É para a compra de um eletrodoméstico.",
+    "chat_id": 1
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:07:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Entendido. Além do valor e da finalidade, preciso saber se você é assalariado, autônomo, ou tem outra fonte de renda. E qual o seu rendimento mensal aproximado?",
+    "chat_id": 1
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:08:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Sou assalariada e meu rendimento mensal é de aproximadamente R$ 3.500,00.",
+    "chat_id": 1
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:09:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Certo. Por fim, preciso de comprovantes de renda e endereço. Você pode enviar fotos desses documentos através do nosso aplicativo.  Você já tem o aplicativo EzyCredit instalado?",
+    "chat_id": 1
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:10:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Não, ainda não. Como faço para baixar?",
+    "chat_id": 1
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:11:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: É muito fácil! Basta acessar a Google Play Store ou a App Store e procurar por \"EzyCredit\". O download é rápido e gratuito. Assim que tiver, pode enviar os documentos diretamente pelo aplicativo.  Aguarde a análise do seu pedido!",
+    "chat_id": 1
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:12:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Ok, vou baixar agora. Muito obrigado pela ajuda!",
+    "chat_id": 1
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:13:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Por nada, Ana Paula! Se tiver qualquer dúvida durante o processo, é só nos chamar.  Boas análises e esperamos te ajudar a realizar sua compra!",
+    "chat_id": 1
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:14:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C:  Perfeito. Até mais!",
+    "chat_id": 1
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:15:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V:  Tenha um ótimo dia, Ana Paula!",
+    "chat_id": 1
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Olá, boa tarde! Gostaria de saber como faço para solicitar um crédito na EzyCredit.",
+    "chat_id": 2
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Boa tarde! Bem-vindo à EzyCredit! Para iniciarmos, qual o valor aproximado do crédito que você precisa?",
+    "chat_id": 2
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:02:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Estava pensando em algo em torno de R$ 5.000,00.",
+    "chat_id": 2
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:03:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Ótimo! R$ 5.000,00. Para darmos prosseguimento, preciso de algumas informações. Qual o seu nome completo?",
+    "chat_id": 2
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:04:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Meu nome é João Silva.",
+    "chat_id": 2
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:05:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Perfeito, João.  Preciso também do seu CPF e data de nascimento, por favor.",
+    "chat_id": 2
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:06:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: CPF: 123.456.789-00 e data de nascimento: 10/05/1990.",
+    "chat_id": 2
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:07:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Obrigado, João. Agora, preciso confirmar seu endereço completo, incluindo CEP.",
+    "chat_id": 2
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:08:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Rua das Flores, 123, Bairro Jardim, CEP 12345-678, São Paulo - SP.",
+    "chat_id": 2
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:09:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Certo, João. Todas as informações foram confirmadas.  Em breve, você receberá uma análise do seu crédito. A aprovação dependerá de diversos fatores, como seu histórico de crédito e renda.",
+    "chat_id": 2
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:10:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Entendi. Quanto tempo leva para eu receber a resposta?",
+    "chat_id": 2
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:11:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: A análise geralmente leva de 24 a 48 horas. Enviaremos uma notificação por SMS assim que a análise estiver completa.",
+    "chat_id": 2
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:12:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Ótimo, muito obrigado pela atenção!",
+    "chat_id": 2
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:13:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Por nada, João!  Se tiver mais alguma dúvida, não hesite em nos contatar. Tenha um ótimo dia!",
+    "chat_id": 2
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:14:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Boa tarde!",
+    "chat_id": 2
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:15:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Boa tarde, João! A EzyCredit está à disposição.",
+    "chat_id": 2
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Olá, boa tarde! Gostaria de fazer um pedido de crédito.",
+    "chat_id": 3
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:00:30",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Boa tarde! Bem-vindo à EzyCredit. Meu nome é Lucas. Em que posso ajudar hoje?",
+    "chat_id": 3
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:01:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Queria saber qual o valor máximo de crédito que consigo. Tenho necessidade de financiar um sofá novo.",
+    "chat_id": 3
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:01:45",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Ótimo! Para calcular o valor máximo, preciso de algumas informações. Qual o valor que você pretende financiar e qual o seu valor de renda mensal?",
+    "chat_id": 3
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:02:30",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Meu salário líquido é de R$ 3.500,00.  Estou buscando um sofá de até R$ 2.000,00.",
+    "chat_id": 3
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:03:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Agradeço as informações. Um momento enquanto verifico as opções disponíveis para você.  Por favor, aguarde...",
+    "chat_id": 3
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:04:15",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Com base na sua renda e no valor desejado, podemos oferecer um crédito de até R$ 1.800,00.  A taxa de juros é de 1,99% ao mês.",
+    "chat_id": 3
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:04:45",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: R$ 1.800,00 parece bom! E qual o prazo de pagamento ideal para essa quantia?",
+    "chat_id": 3
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:05:30",
+    "tipo": "pedido de crédito",
+    "conteudo": "V:  As parcelas podem ser de até 12 meses, com valores variando conforme o número de parcelas escolhido.  O valor mensal mínimo para 12 meses seria de R$ 165,00.",
+    "chat_id": 3
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:06:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Entendi. E quais são os documentos necessários para solicitar o crédito?",
+    "chat_id": 3
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:06:45",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Para o pedido, precisaremos de RG, CPF, comprovante de renda (holerite ou extrato bancário) e comprovante de residência (conta de água, luz ou telefone).",
+    "chat_id": 3
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:07:30",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Perfeito! Posso enviar as cópias digitalizadas dos documentos agora mesmo?",
+    "chat_id": 3
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:08:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Sim, claro! Envie para o e-mail contato@EzyCredit.com.br. Assim que recebermos, o processo será agilizado.",
+    "chat_id": 3
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:08:45",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Ótimo! Já estou enviando agora.",
+    "chat_id": 3
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:09:30",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Perfeito! Agradeço a sua solicitação. Se precisar de mais alguma informação, não hesite em nos contatar.",
+    "chat_id": 3
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:10:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Muito obrigado pela ajuda, Lucas! Até mais!",
+    "chat_id": 3
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Olá, boa tarde! Gostaria de fazer um pedido de crédito, por favor.",
+    "chat_id": 4
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Boa tarde! Bem-vindo à EzyCredit. Meu nome é Lucas. Posso te ajudar com seu pedido de crédito? Para começarmos, qual o valor que você precisa?",
+    "chat_id": 4
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:02:30",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Eu gostaria de R$ 5.000,00.",
+    "chat_id": 4
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:03:45",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Entendi. R$ 5.000,00. Para darmos seguimento, preciso de algumas informações suas. Poderia me informar seu nome completo e data de nascimento?",
+    "chat_id": 4
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:04:12",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Meu nome é Ana Paula Silva e minha data de nascimento é 15/03/1990.",
+    "chat_id": 4
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:05:01",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Obrigada, Ana Paula. E qual o seu endereço completo?",
+    "chat_id": 4
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:05:48",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Rua das Flores, 123, Apartamento 404, Centro, São Paulo - SP.",
+    "chat_id": 4
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:06:30",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Perfeito. Ana Paula, para análise do seu pedido, preciso de alguns documentos. Você possui comprovante de renda (contracheque ou declaração de Imposto de Renda) e um comprovante de residência atualizado?",
+    "chat_id": 4
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:07:05",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Sim, tenho o extrato bancário que comprova minha renda e a conta de luz em meu nome.",
+    "chat_id": 4
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:07:58",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Ótimo! Pode me enviar uma foto do extrato bancário e da conta de luz? É importante que a imagem esteja legível.",
+    "chat_id": 4
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:08:42",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Enviado os documentos!",
+    "chat_id": 4
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:09:10",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Recebi os documentos, Ana Paula. A equipe de análise já está verificando. O prazo para análise é de até 24 horas úteis.",
+    "chat_id": 4
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:09:55",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Tudo bem. Agradeço a atenção.",
+    "chat_id": 4
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:10:30",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Por nada, Ana Paula! Entraremos em contato assim que a análise for concluída. Boas notícias! ",
+    "chat_id": 4
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:11:01",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Ok, tchau!",
+    "chat_id": 4
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:11:50",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Até mais! Tenha um ótimo dia!",
+    "chat_id": 4
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Olá, boa tarde! Gostaria de saber mais sobre um pedido de crédito com a EzyCredit.",
+    "chat_id": 5
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Boa tarde! Seja bem-vindo(a) à EzyCredit. Meu nome é Ana, em que posso ajudar você hoje?",
+    "chat_id": 5
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:02:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Estou precisando de um crédito para financiar a compra de um veículo. Qual o processo?",
+    "chat_id": 5
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:03:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Ótimo! Para financiar a compra de um veículo, você pode fazer um pedido de crédito conosco.  Precisaremos de alguns dados seus e do veículo para avaliar sua solicitação.  Primeiramente, qual o valor aproximado do veículo que você deseja financiar?",
+    "chat_id": 5
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:04:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Estava pensando em um carro Hatch médio, na faixa de R$ 60.000 - R$ 80.000.",
+    "chat_id": 5
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:05:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Perfeito!  Com esse valor, podemos simular algumas opções.  Precisaremos de alguns dados pessoais seus: nome completo, CPF, data de nascimento e renda mensal comprovada.",
+    "chat_id": 5
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:06:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Ok, meu nome completo é João Silva, CPF 123.456.789-00, data de nascimento 15/03/1990, e minha renda mensal é de R$ 5.000.",
+    "chat_id": 5
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:07:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V:  Excelente!  Estou preenchendo a análise com seus dados. Só mais um momento... A análise inicial já está sendo feita.  Em breve, te darei um feedback sobre as opções de crédito disponíveis.",
+    "chat_id": 5
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:08:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Certo. E quanto ao tempo para aprovação?",
+    "chat_id": 5
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:09:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: A aprovação geralmente leva de 24 a 48 horas, dependendo da análise completa e da documentação.  Mas, com os seus dados, já identificamos algumas opções de financiamento com taxas interessantes.",
+    "chat_id": 5
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:10:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Que bom! Poderia me enviar as opções?",
+    "chat_id": 5
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:11:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V:  Claro! Envio agora mesmo.  Estou te enviando um WhatsApp com as opções de financiamento. Por favor, verifique a sua caixa de mensagens.",
+    "chat_id": 5
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:12:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Recebi! As opções parecem boas. Vou analisar com calma e entrar em contato para tirar algumas dúvidas.",
+    "chat_id": 5
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:13:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V:  Perfeito!  Estou à disposição para qualquer dúvida. Não hesite em nos contatar novamente.  Tenha um ótimo dia!",
+    "chat_id": 5
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:14:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Obrigado pela ajuda! Até mais.",
+    "chat_id": 5
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:15:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V:  De nada! A EzyCredit está sempre à disposição. Até a próxima!",
+    "chat_id": 5
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Olá! Gostaria de saber mais sobre um pedido de crédito com a EzyCredit.",
+    "chat_id": 6
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Olá! Bem-vindo à EzyCredit. Meu nome é Victor. Em que posso ajudar hoje?",
+    "chat_id": 6
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:02:45",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Queria saber quais são os requisitos para solicitar um empréstimo. Pretendo comprar um carro.",
+    "chat_id": 6
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:03:30",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Ótimo! Para um financiamento de veículo, geralmente precisamos de comprovante de renda, comprovante de residência e RG/CNH. Qual o valor aproximado do veículo que você tem em mente?",
+    "chat_id": 6
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:04:10",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Estava pensando em um carro Hatch médio, algo em torno de R$ 60.000.",
+    "chat_id": 6
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:05:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Entendi. Com um veículo de R$ 60.000, podemos analisar um financiamento com prazos que variam de 12 a 60 meses.  Posso verificar suas chances de aprovação com base em seus dados?",
+    "chat_id": 6
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:06:30",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Certo. Qual o valor máximo que consigo financiar com essa opção?",
+    "chat_id": 6
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:07:05",
+    "tipo": "pedido de crédito",
+    "conteudo": "V:  Com um compromisso de R$ 60.000, e considerando seus dados, podemos oferecer financiamentos que chegam a R$ 80.000, incluindo taxas de juros competitivas. Gostaria que eu coletasse algumas informações para simular o seu crédito?",
+    "chat_id": 6
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:08:20",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Pode sim, por favor. Preciso de um formulário para preencher.",
+    "chat_id": 6
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:09:15",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Perfeito! Envie-me seus dados pessoais: nome completo, CPF, data de nascimento e endereço completo. Também preciso do seu número de telefone para contato.",
+    "chat_id": 6
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:10:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Ok, enviando agora... Nome: João Silva, CPF: 123.456.789-00, Data de Nascimento: 01/01/1990, Endereço: Rua Exemplo, 123, Bairro, Cidade, Estado, CEP: 12345-678, Telefone: (11) 99999-8888",
+    "chat_id": 6
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:11:45",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Obrigado, João! Estou processando sua análise de crédito. Aguarde alguns instantes enquanto verifico sua elegibilidade.",
+    "chat_id": 6
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:13:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: João, a análise inicial foi aprovada! Você tem a chance de financiar um veículo Hatch médio de até R$80.000 com taxas de juros de 2,9% ao ano.  Deseja prosseguir com a proposta?",
+    "chat_id": 6
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:14:30",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Sim, com certeza! Como faço para dar andamento?",
+    "chat_id": 6
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:15:45",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Ótimo! Enviaremos um contrato para sua assinatura digital. Basta acessar o nosso portal e seguir as instruções.  Em breve teremos seu financiamento aprovado!",
+    "chat_id": 6
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:17:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Perfeito! Muito obrigado pela ajuda, Victor.",
+    "chat_id": 6
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Olá, boa tarde! Gostaria de fazer um pedido de crédito.",
+    "chat_id": 7
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Boa tarde! Bem-vindo à EzyCredit. Meu nome é Sofia, em que posso ajudar?",
+    "chat_id": 7
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:02:45",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Estou precisando de um crédito para financiar um eletrodoméstico, uma geladeira nova. Quanto solicitei?",
+    "chat_id": 7
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:03:30",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Ótimo! Para que possamos simular sua aprovação, preciso de algumas informações. Qual o valor da geladeira que você deseja financiar?",
+    "chat_id": 7
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:04:12",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Estou pensando em uma geladeira de 600 reais.",
+    "chat_id": 7
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:05:01",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Perfeito. Além do valor, poderia me informar sua renda mensal comprovada?",
+    "chat_id": 7
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:05:58",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Meus rendimentos são de 1500 reais.",
+    "chat_id": 7
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:06:48",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Certo. E qual o seu tempo de trabalho na sua empresa?",
+    "chat_id": 7
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:07:35",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Tenho trabalhado na empresa há 3 anos.",
+    "chat_id": 7
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:08:22",
+    "tipo": "pedido de crédito",
+    "conteudo": "V: Muito obrigado! Aguarde um momento enquanto verifico sua simulação... Ok, a aprovação para um crédito de R$600, com sua renda e tempo de trabalho, está sob análise. O prazo estimado é de 24 horas.",
+    "chat_id": 7
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:09:18",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Que bom! Qual o valor máximo que consigo pegar?",
+    "chat_id": 7
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:09:59",
+    "tipo": "pedido de crédito",
+    "conteudo": "V:  Com base nos seus dados, o valor máximo que podemos oferecer é de R$800, com um prazo de pagamento de 12 meses.  Alguma dúvida?",
+    "chat_id": 7
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:10:51",
+    "tipo": "pedido de crédito",
+    "conteudo": "C:  Ok, tudo certo! Pode me enviar as condições do financiamento?",
+    "chat_id": 7
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:11:48",
+    "tipo": "pedido de crédito",
+    "conteudo": "V:  Claro! Enviarei agora para o seu e-mail.  Por favor, verifique a caixa de entrada e a caixa de spam.  Agradeço o contato!",
+    "chat_id": 7
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:12:35",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Perfeito, obrigado pela atenção!",
+    "chat_id": 7
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:13:28",
+    "tipo": "pedido de crédito",
+    "conteudo": "V:  À disposição! Tenha um ótimo dia!",
+    "chat_id": 7
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "cancelamento",
+    "conteudo": "C: Olá, boa tarde! Gostaria de cancelar minha assinatura da EzyCredit.",
+    "chat_id": 8
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:00",
+    "tipo": "cancelamento",
+    "conteudo": "V: Boa tarde! A EzyCredit está aqui para ajudar. Para iniciarmos o processo de cancelamento, poderia me informar seu nome completo e CPF, por favor?",
+    "chat_id": 8
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:02:00",
+    "tipo": "cancelamento",
+    "conteudo": "C: Meu nome é Ana Paula Silva e meu CPF é 123.456.789-00",
+    "chat_id": 8
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:03:00",
+    "tipo": "cancelamento",
+    "conteudo": "V: Obrigada, Ana Paula. Verifiquei sua assinatura. Para confirmar o cancelamento, gostaria de saber o motivo do cancelamento. Isso nos ajuda a melhorar nossos serviços.",
+    "chat_id": 8
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:04:00",
+    "tipo": "cancelamento",
+    "conteudo": "C: A plataforma está muito lenta e a análise de crédito demora demais. Estou tendo dificuldades para utilizar o serviço.",
+    "chat_id": 8
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:05:00",
+    "tipo": "cancelamento",
+    "conteudo": "V: Entendo, Ana Paula. Lamentamos que tenha enfrentado essas dificuldades. Confirmando, você deseja cancelar sua assinatura da EzyCredit devido à lentidão na plataforma e demora na análise de crédito. Correto?",
+    "chat_id": 8
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:06:00",
+    "tipo": "cancelamento",
+    "conteudo": "C: Sim, correto. Por favor, proceda com o cancelamento.",
+    "chat_id": 8
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:07:00",
+    "tipo": "cancelamento",
+    "conteudo": "V: Perfeito. O cancelamento foi solicitado e será efetuado em até 24 horas. Você receberá um e-mail de confirmação em breve com os detalhes.  Solicitamos que informe, caso tenha alguma dúvida, que estamos à disposição.",
+    "chat_id": 8
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:08:00",
+    "tipo": "cancelamento",
+    "conteudo": "C: Ok, muito obrigada!",
+    "chat_id": 8
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:09:00",
+    "tipo": "cancelamento",
+    "conteudo": "V:  Sua satisfação é importante para nós.  Caso precise de suporte futuro, nosso canal de atendimento permanece aberto.  Atenciosamente, a equipe EzyCredit.",
+    "chat_id": 8
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:10:00",
+    "tipo": "cancelamento",
+    "conteudo": "C: Ok, preciso de mais alguma coisa?",
+    "chat_id": 8
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:11:00",
+    "tipo": "cancelamento",
+    "conteudo": "V: Não, Ana Paula. Apenas confirme se recebeu o e-mail de confirmação do cancelamento. Caso não receba, avise-nos e enviaremos novamente. Tchau!",
+    "chat_id": 8
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:12:00",
+    "tipo": "cancelamento",
+    "conteudo": "C: Ok, obrigada!",
+    "chat_id": 8
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:13:00",
+    "tipo": "cancelamento",
+    "conteudo": "V:  Estamos à disposição!  Atenciosamente, equipe EzyCredit.",
+    "chat_id": 8
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:14:00",
+    "tipo": "cancelamento",
+    "conteudo": "C: Tudo certo! ",
+    "chat_id": 8
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:15:00",
+    "tipo": "cancelamento",
+    "conteudo": "V: Que bom! Tenha um ótimo dia, Ana Paula.",
+    "chat_id": 8
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "cancelamento",
+    "conteudo": "C: Olá, bom dia! Gostaria de cancelar minha assinatura da EzyCredit.",
+    "chat_id": 9
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "cancelamento",
+    "conteudo": "V: Bom dia! A EzyCredit está aqui para ajudar. Para prosseguirmos com o cancelamento, preciso de alguns dados para identificar sua conta. Poderia me informar seu CPF?",
+    "chat_id": 9
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:02:48",
+    "tipo": "cancelamento",
+    "conteudo": "C: É o 123.456.789-00",
+    "chat_id": 9
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:03:52",
+    "tipo": "cancelamento",
+    "conteudo": "V: Obrigado! Só um momento enquanto verifico sua conta... Sr. João da Silva, correto?",
+    "chat_id": 9
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:04:17",
+    "tipo": "cancelamento",
+    "conteudo": "C: Sim, correto!",
+    "chat_id": 9
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:05:31",
+    "tipo": "cancelamento",
+    "conteudo": "V: Entendi. Sr. João, o cancelamento da sua assinatura está sendo processado. O valor referente aos últimos 30 dias já foi debitado em sua conta. O cancelamento será efetivado em até 24 horas.",
+    "chat_id": 9
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:06:49",
+    "tipo": "cancelamento",
+    "conteudo": "C: Ah, ok! Eu não estava ciente do débito. Existe alguma forma de eu ter o reembolso do restante do período?",
+    "chat_id": 9
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:07:23",
+    "tipo": "cancelamento",
+    "conteudo": "V: Sr. João, a política da EzyCredit não contempla reembolso para assinaturas canceladas. No entanto, gostaríamos de oferecer um desconto de 10% na sua próxima assinatura, como forma de agradecermos sua preferência.",
+    "chat_id": 9
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:08:55",
+    "tipo": "cancelamento",
+    "conteudo": "C: Hum... Isso é bom! Posso receber o código de desconto por aqui mesmo?",
+    "chat_id": 9
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:09:41",
+    "tipo": "cancelamento",
+    "conteudo": "V: Sim, Sr. João. Enviamos o código de desconto (DESCONTO10) para o seu e-mail cadastrado: joao.silva@email.com.  Confirme se está tudo correto?",
+    "chat_id": 9
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:10:12",
+    "tipo": "cancelamento",
+    "conteudo": "C: Sim, recebi! Muito obrigado pela atenção.",
+    "chat_id": 9
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:11:34",
+    "tipo": "cancelamento",
+    "conteudo": "V: Ótimo! Sua assinatura foi cancelada e o código de desconto foi enviado. Mais alguma coisa em que podemos ajudar, Sr. João?",
+    "chat_id": 9
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:12:50",
+    "tipo": "cancelamento",
+    "conteudo": "C: Não, é só isso mesmo. Obrigado novamente!",
+    "chat_id": 9
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:14:05",
+    "tipo": "cancelamento",
+    "conteudo": "V: A EzyCredit agradece a sua preferência. Tenha um ótimo dia!",
+    "chat_id": 9
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:15:21",
+    "tipo": "cancelamento",
+    "conteudo": "C: Igualmente! Até mais.",
+    "chat_id": 9
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:16:47",
+    "tipo": "cancelamento",
+    "conteudo": "V: Até mais, Sr. João!",
+    "chat_id": 9
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "cancelamento",
+    "conteudo": "C: Olá, boa tarde! Queria saber como faço para cancelar minha assinatura EzyCredit.",
+    "chat_id": 10
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "cancelamento",
+    "conteudo": "V: Boa tarde! A EzyCredit agradece o contato. Para iniciarmos o processo de cancelamento, preciso confirmar alguns dados para identificá-lo. Poderia me informar o CPF utilizado na assinatura?",
+    "chat_id": 10
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:03:42",
+    "tipo": "cancelamento",
+    "conteudo": "C: Meu CPF é 123.456.789-00",
+    "chat_id": 10
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:05:21",
+    "tipo": "cancelamento",
+    "conteudo": "V: Obrigado(a), Sr(a). 123.456.789-00. Confirme, por favor, o nome completo associado à assinatura.",
+    "chat_id": 10
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:06:58",
+    "tipo": "cancelamento",
+    "conteudo": "C: Meu nome é João Silva.",
+    "chat_id": 10
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:07:39",
+    "tipo": "cancelamento",
+    "conteudo": "V: Certo, Sr. João Silva. Confirmamos sua identidade. Para prosseguirmos com o cancelamento, informo que haverá uma taxa de cancelamento de R$ 29,90 referente ao período não utilizado.  Você concorda em prosseguir?",
+    "chat_id": 10
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:08:17",
+    "tipo": "cancelamento",
+    "conteudo": "C:  Entendo.  Mas eu não queria essa taxa, certo? Como cancelar sem ela?",
+    "chat_id": 10
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:09:01",
+    "tipo": "cancelamento",
+    "conteudo": "V: Sim, Sr. João. A taxa de cancelamento é aplicada conforme as políticas da EzyCredit.  No entanto, podemos verificar se há alguma promoção especial disponível para isenção da taxa. Por favor, aguarde um momento enquanto verifico...",
+    "chat_id": 10
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:10:32",
+    "tipo": "cancelamento",
+    "conteudo": "V: Ótima notícia! Encontramos uma promoção para clientes que solicitam o cancelamento até o final do dia, sem a cobrança da taxa.  O cancelamento será efetivado imediatamente.",
+    "chat_id": 10
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:11:55",
+    "tipo": "cancelamento",
+    "conteudo": "C:  Perfeito! Muito obrigado!",
+    "chat_id": 10
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:13:01",
+    "tipo": "cancelamento",
+    "conteudo": "V: Por nada, Sr. João. O cancelamento foi confirmado e um e-mail de confirmação foi enviado para o seu endereço cadastrado.  Desejamos que tenha uma ótima experiência com nossos serviços no futuro.",
+    "chat_id": 10
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:14:28",
+    "tipo": "cancelamento",
+    "conteudo": "C:  Mais uma vez, obrigado pela atenção!",
+    "chat_id": 10
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:15:43",
+    "tipo": "cancelamento",
+    "conteudo": "V:  Disponibilizamos um canal de suporte para eventuais dúvidas. Até mais!",
+    "chat_id": 10
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:16:59",
+    "tipo": "cancelamento",
+    "conteudo": "C: Ok, tchau!",
+    "chat_id": 10
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:18:01",
+    "tipo": "cancelamento",
+    "conteudo": "V:  Tudo bem, Sr. João. Tenha um ótimo dia!",
+    "chat_id": 10
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:19:15",
+    "tipo": "cancelamento",
+    "conteudo": "C:  Obrigado, tchau!",
+    "chat_id": 10
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: Olá, boa tarde! Gostaria de saber como faço para solicitar um refinanciamento com a EzyCredit.",
+    "chat_id": 11
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Boa tarde! A EzyCredit pode te ajudar a refazer o seu financiamento de forma mais vantajosa. Para começarmos, preciso de algumas informações. Qual o valor aproximado da dívida que você deseja refazer?",
+    "chat_id": 11
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:03:42",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: A dívida está em torno de R$ 35.000,00. É um financiamento de veículo.",
+    "chat_id": 11
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:05:28",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Ótimo! Além do valor, qual o modelo do seu veículo? Isso ajuda a estimar as taxas de juros.",
+    "chat_id": 11
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:07:11",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: É um Fiat Palio Attractive 2018.",
+    "chat_id": 11
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:08:59",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Perfeito! Agora, preciso de algumas informações pessoais. Qual o seu nome completo e data de nascimento?",
+    "chat_id": 11
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:10:35",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: Meu nome é Ana Paula Silva, dia 15 de março de 1988.",
+    "chat_id": 11
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:12:01",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Certo, Ana Paula. Preciso também do seu CPF e e-mail para darmos seguimento. ",
+    "chat_id": 11
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:13:57",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: Meu CPF é 123.456.789-00 e meu e-mail é ana.silva@email.com.",
+    "chat_id": 11
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:15:22",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Excelente! Ana Paula, seus dados foram confirmados. A nossa equipe especializada irá analisar seu perfil e te apresentar as melhores opções de refinanciamento. Em até 24 horas teremos uma proposta para você!",
+    "chat_id": 11
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:17:03",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: Que legal! E qual o prazo máximo para essa análise?",
+    "chat_id": 11
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:18:49",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: O prazo é de até 48 horas úteis, Ana Paula. Mas, geralmente, conseguimos uma análise mais rápida.  Aguarde nosso contato!",
+    "chat_id": 11
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:20:18",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: Tudo bem, obrigado pelas informações!",
+    "chat_id": 11
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:21:55",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Por nada, Ana Paula! Tenha um ótimo dia e ficaremos em contato em breve.",
+    "chat_id": 11
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:23:22",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: Certo! Até mais.",
+    "chat_id": 11
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:24:37",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Até mais!",
+    "chat_id": 11
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: Olá, bom dia! Gostaria de saber como faço para solicitar um refinanciamento de empréstimo com a EzyCredit.",
+    "chat_id": 12
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Bom dia! Seja bem-vindo à EzyCredit. Claro, posso te ajudar com isso. O refinanciamento é uma ótima opção para consolidar suas dívidas. Para começarmos, qual o valor do empréstimo que você tem atualmente?",
+    "chat_id": 12
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:02:48",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: Tenho um empréstimo de R$ 15.000, com parcelas de R$ 450,00. Queria ver se consigo uma taxa melhor.",
+    "chat_id": 12
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:03:52",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Entendo. E qual o prazo do seu empréstimo atual?",
+    "chat_id": 12
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:04:11",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: Tem 36 meses.",
+    "chat_id": 12
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:05:27",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Ok. Certo, para darmos um orçamento mais preciso, preciso de algumas informações adicionais. Poderia me informar sua renda mensal comprovável?",
+    "chat_id": 12
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:06:39",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: R$ 3.500,00.",
+    "chat_id": 12
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:07:51",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Perfeito. Já preenchi algumas informações preliminares no nosso aplicativo. Para facilitar, você pode baixar a EzyCredit na App Store ou Google Play e usar o código REF-3742. Isso agiliza o processo.  Precisarei de alguns dados bancários, como número da conta e agência.",
+    "chat_id": 12
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:08:15",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: Ok, entendi. Vou baixar o app agora.",
+    "chat_id": 12
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:09:03",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Ótimo! Assim que você preencher os dados no app, um de nossos analistas entrará em contato para validar sua proposta e te apresentar as melhores taxas disponíveis.",
+    "chat_id": 12
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:10:22",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C:  Certo, farei isso. Agradeço a ajuda!",
+    "chat_id": 12
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:11:37",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Por nada! Tenha um ótimo dia e conte com a EzyCredit para realizar seus sonhos. Se tiver mais alguma dúvida, pode nos contatar.",
+    "chat_id": 12
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:12:50",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: Ok, até mais!",
+    "chat_id": 12
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:14:01",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Até mais! Fique à vontade para nos contatar sempre que precisar.",
+    "chat_id": 12
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:15:18",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C:  Obrigado novamente!",
+    "chat_id": 12
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:16:24",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Dispondo sempre! Qualquer coisa, é só chamar.",
+    "chat_id": 12
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: Olá, boa tarde! Gostaria de saber como faço para solicitar um refinanciamento com a EzyCredit.",
+    "chat_id": 13
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Olá! Boa tarde! Seja bem-vindo à EzyCredit. Para iniciarmos o processo de refinanciamento, preciso de algumas informações. Você tem em mãos o contrato do seu empréstimo atual?",
+    "chat_id": 13
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:02:30",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: Sim, tenho. É da CrediSoluções, número do contrato 123456789.  É o máximo de 15 mil.",
+    "chat_id": 13
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:03:45",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Ótimo! Para prosseguirmos, preciso que você forneça seu nome completo, CPF e e-mail. Além disso, qual o valor total que você deseja refinanciar?",
+    "chat_id": 13
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:04:00",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: Meu nome é João Silva, CPF 123.456.789-01 e o e-mail é joao.silva@email.com. Quero refinanciar os 15 mil.",
+    "chat_id": 13
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:05:15",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Perfeito, João. Confirmando: contrato 123456789, João Silva, CPF 123.456.789-01, e-mail joao.silva@email.com, refinanciamento de R$ 15.000,00. Agora, preciso que me informe sua renda mensal líquida.",
+    "chat_id": 13
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:06:30",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: Minha renda é de R$ 3.500,00.",
+    "chat_id": 13
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:07:45",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Agradeço! Com essas informações, estou simulando as opções de refinanciamento para você. Por favor, aguarde um instante...",
+    "chat_id": 13
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:08:00",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: Ok, pode ser.",
+    "chat_id": 13
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:09:15",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: João, a simulação está pronta! Encontramos opções com taxas de juros de 1,99% ao mês e parcelas de R$ 640,83 por 60 meses.  Gostaria de prosseguir com essa simulação?",
+    "chat_id": 13
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:10:00",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: Nossa, que bom! Parece ótimo! Sim, quero prosseguir.",
+    "chat_id": 13
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:11:00",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Excelente! Para darmos andamento, preciso que você preencha o nosso formulário online com mais alguns dados. Enviarei o link agora mesmo!",
+    "chat_id": 13
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:12:00",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: Ok, estou recebendo o link agora.",
+    "chat_id": 13
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:13:00",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Ótimo! Após preencher o formulário, um de nossos especialistas entrará em contato para finalizar a análise do seu crédito. Parabéns pela escolha!",
+    "chat_id": 13
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:14:00",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "C: Perfeito, muito obrigado pela ajuda!",
+    "chat_id": 13
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:15:00",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "V: Disponha, João! Tenha um ótimo dia e contamos com você na EzyCredit!",
+    "chat_id": 13
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "C: Olá, boa tarde! Eu gostaria de saber se é possível ajustar as parcelas do meu crédito EzyCredit.",
+    "chat_id": 14
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "V: Boa tarde! Agradecemos o contato com a EzyCredit. Posso te ajudar com isso. Para iniciarmos o processo, poderia me informar o número do seu CPF?",
+    "chat_id": 14
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:02:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "C: Meu CPF é 12345678901",
+    "chat_id": 14
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:03:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "V: Obrigado! Só um momento enquanto localizo seu cadastro. ... Ok, encontrei seu cadastro.  A senhora poderia me informar qual o valor das parcelas que gostaria de ajustar?",
+    "chat_id": 14
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:04:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "C: Eu gostaria de reduzir as parcelas em R$ 50,00.",
+    "chat_id": 14
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:05:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "V: Entendi. Com a redução de R$ 50,00, a nova parcela ficaria em R$ 150,00. Isso está correto?",
+    "chat_id": 14
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:06:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "C: Sim, está certo. Mas gostaria de saber se essa redução afeta o prazo da dívida.",
+    "chat_id": 14
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:07:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "V: Correto. A redução de R$ 50,00 no valor das parcelas irá aumentar o número de parcelas. O novo prazo seria de 12 parcelas de R$ 150,00.",
+    "chat_id": 14
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:08:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "C: Ok, tudo bem.  Como posso confirmar essa alteração?",
+    "chat_id": 14
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:09:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "V: Para confirmar, enviarei um e-mail com todas as informações da nova estrutura de parcelas para o endereço cadastrado.  Você receberá em até 5 minutos.",
+    "chat_id": 14
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:10:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "C: Perfeito! Agradeço a ajuda.",
+    "chat_id": 14
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:11:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "V: Por nada! Se precisar de mais alguma coisa, não hesite em nos contatar. Tenha um ótimo dia!",
+    "chat_id": 14
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:12:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "C: Tudo bem, obrigado!",
+    "chat_id": 14
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:13:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "V: À disposição! Boas notícias!",
+    "chat_id": 14
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:14:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "C: Certo, tchau!",
+    "chat_id": 14
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:15:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "V: Tchau, tchau!",
+    "chat_id": 14
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "C: Olá, boa tarde! Meu nome é Ricardo Silva, gostaria de saber como posso ajustar as parcelas do meu crédito EzyCredit.",
+    "chat_id": 15
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:32",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "V: Boa tarde, Ricardo! Bem-vindo à EzyCredit. Meu nome é Lucas. Posso te ajudar com isso. Para começarmos, você poderia me informar o número do seu CPF?",
+    "chat_id": 15
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:03:15",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "C: É o 123.456.789-00",
+    "chat_id": 15
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:04:58",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "V: Obrigado, Ricardo. Só um momento enquanto eu localizo suas informações. ... Ok, encontrei suas informações.  Você poderia me informar o valor que gostaria de verificar para o ajuste das parcelas?",
+    "chat_id": 15
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:06:21",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "C: Eu gostaria de ver a possibilidade de reduzir uma parcela de R$ 150,00.",
+    "chat_id": 15
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:07:49",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "V: Entendi.  Com base em seu perfil de crédito e no valor solicitado, podemos oferecer algumas opções. Uma delas é o parcelamento adicional de R$ 80,00 em 12 vezes, com juros de 0,99% ao mês.  Gostaria de avaliar essa opção?",
+    "chat_id": 15
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:09:12",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "C: Hum... Essa opção parece boa. Pode me mostrar o valor total que ficaria?",
+    "chat_id": 15
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:10:35",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "V: Com certeza.  Com o parcelamento adicional de R$ 80,00 em 12 vezes, o valor total da sua fatura ficaria R$ 922,00.  Lembre-se que os juros são de 0,99% ao mês.  Posso confirmar essa alteração?",
+    "chat_id": 15
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:12:01",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "C: Sim, pode confirmar.  E qual o prazo para colocar essa alteração em prática?",
+    "chat_id": 15
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:13:57",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "V: A alteração será aplicada em até 24 horas úteis. Assim que a atualização for processada, você receberá um e-mail de confirmação com a nova fatura.  Precisa de mais alguma informação, Ricardo?",
+    "chat_id": 15
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:14:38",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "C: Não, acho que é só isso. Muito obrigado pela ajuda, Lucas!",
+    "chat_id": 15
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:15:29",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "V: Por nada, Ricardo!  Estamos sempre à disposição. Tenha um ótimo dia!",
+    "chat_id": 15
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:16:45",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "C: Até mais!",
+    "chat_id": 15
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:17:50",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "V: Até mais!",
+    "chat_id": 15
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:18:30",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "C: Ok, tchau!",
+    "chat_id": 15
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:19:01",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "V: Até logo, Ricardo!",
+    "chat_id": 15
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "C: Olá, boa tarde! Gostaria de solicitar uma segunda via do boleto. Meu CPF é 12345678900.",
+    "chat_id": 16
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:00",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "V: Boa tarde! A EzyCredit está aqui para ajudar. Para prosseguirmos com a segunda via, preciso confirmar seu nome completo.",
+    "chat_id": 16
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:02:00",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "C: Meu nome completo é João da Silva.",
+    "chat_id": 16
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:03:00",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "V: Ok, João da Silva. Confirme, por favor, o valor do boleto que deseja a segunda via e o vencimento.",
+    "chat_id": 16
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:04:00",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "C: O valor é R$ 150,00 e o vencimento é 28/10/2024.",
+    "chat_id": 16
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:05:00",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "V: Perfeito, João. Confirmando: segunda via do boleto no valor de R$ 150,00, vencido em 28/10/2024, para o CPF 12345678900.  Você prefere receber o boleto por e-mail ou WhatsApp?",
+    "chat_id": 16
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:06:00",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "C: Por WhatsApp, por favor.",
+    "chat_id": 16
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:07:00",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "V: Ótimo! Envio realizado. O link para download do boleto estará disponível em sua caixa de WhatsApp em até 5 minutos.  Enquanto isso, posso te ajudar com mais alguma informação?",
+    "chat_id": 16
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:08:00",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "C: Tudo certo, muito obrigado!",
+    "chat_id": 16
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:09:00",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "V: Disponha! Se tiver qualquer dúvida, não hesite em nos contatar. Tenha um ótimo dia!",
+    "chat_id": 16
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:10:00",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "C:  Recebi o link, obrigada!",
+    "chat_id": 16
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:11:00",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "V:  Que bom que tudo correu bem!  Ficamos à disposição.",
+    "chat_id": 16
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:12:00",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "C:  Mais uma vez, obrigado!",
+    "chat_id": 16
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:13:00",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "V:  Às ordens! Qualquer coisa, é só chamar.",
+    "chat_id": 16
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:14:00",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "C:  Tudo certo por aqui!",
+    "chat_id": 16
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:15:00",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "V:  Excelente!  Tenha um ótimo dia e volte sempre à EzyCredit.",
+    "chat_id": 16
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "C: Olá, boa tarde! Gostaria de entender melhor as taxas da EzyCredit para o empréstimo pessoal.",
+    "chat_id": 17
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "V: Boa tarde! Agradecemos o contato com a EzyCredit. Para lhe fornecer informações precisas, qual o valor do empréstimo que você tem em mente?",
+    "chat_id": 17
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:02:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "C: Quero simular um empréstimo de R$ 5.000,00.",
+    "chat_id": 17
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:03:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "V: Perfeito! Para um empréstimo de R$ 5.000,00, nossa taxa de juros é de 1,5% ao mês, calculada sobre o valor da parcela. Além disso, há uma taxa de abertura de R$ 50,00.",
+    "chat_id": 17
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:04:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "C: Entendi. E qual o valor da parcela mensal com essas taxas?",
+    "chat_id": 17
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:05:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "V: Com as taxas aplicadas e um prazo de pagamento de 12 meses, sua parcela mensal seria de aproximadamente R$ 427,71.",
+    "chat_id": 17
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:06:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "C: Nossa, está um pouco alto. Existe alguma possibilidade de negociar as taxas?",
+    "chat_id": 17
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:07:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "V: Sim, cliente! Podemos verificar a possibilidade de oferecer taxas diferenciadas dependendo do seu score de crédito e histórico financeiro.  Gostaria que me informasse seu score de crédito, se tiver acesso a ele?",
+    "chat_id": 17
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:08:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "C: Meu score é 600.",
+    "chat_id": 17
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:09:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "V: Certo. Com o seu score, conseguimos oferecer um valor de juros um pouco menor, de 1,3% ao mês.  Nesse caso, a parcela mensal seria de aproximadamente R$ 410,51.",
+    "chat_id": 17
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:10:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "C: Que bom! Isso me parece melhor. Pode me ajudar a preencher a solicitação?",
+    "chat_id": 17
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:11:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "V: Com certeza! Para iniciar, preciso de algumas informações pessoais suas, como nome completo, CPF e data de nascimento...",
+    "chat_id": 17
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:12:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "C: Ok, posso fornecer. Meu nome é João Silva, CPF 123.456.789-00 e data de nascimento 10/05/1990.",
+    "chat_id": 17
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:13:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "V: Perfeito, João.  Agora, preciso confirmar seu endereço completo...",
+    "chat_id": 17
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:14:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "C: Rua das Flores, 123, Bairro Jardim, São Paulo - SP.",
+    "chat_id": 17
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:15:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "V: Tudo certo! Agradecemos o seu contato e preenchimento. Em breve, entraremos em contato para dar andamento à sua solicitação.",
+    "chat_id": 17
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "C: Olá, boa tarde! Gostaria de saber quais são as taxas associadas ao financiamento com a EzyCredit.",
+    "chat_id": 18
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "informação sobre taxas",
+    "conteudo": "V: Boa tarde! Obrigado por entrar em contato com a EzyCredit. Para te ajudar, preciso de algumas informações. Qual o valor do imóvel que você está interessado em financiar?",
+    "chat_id": 18
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:03:42",
+    "tipo": "informação sobre taxas",
+    "conteudo": "C: O valor do imóvel é R$ 350.000,00.",
+    "chat_id": 18
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:05:01",
+    "tipo": "informação sobre taxas",
+    "conteudo": "V: Perfeito! Para financiamento de imóveis nesse valor, as taxas da EzyCredit são compostas por uma taxa de avaliação do imóvel de R$ 750,00 e uma taxa de administração mensal de 0,8% ao ano, calculada sobre o valor financiado.",
+    "chat_id": 18
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:06:38",
+    "tipo": "informação sobre taxas",
+    "conteudo": "C: Entendi. E essa taxa de administração é fixa ou varia de acordo com o prazo do financiamento?",
+    "chat_id": 18
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:07:59",
+    "tipo": "informação sobre taxas",
+    "conteudo": "V: A taxa de administração é fixa durante todo o período do financiamento. No entanto, também há um seguro habitacional obrigatório, com custo que varia conforme o valor financiado e o prazo escolhido.",
+    "chat_id": 18
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:09:11",
+    "tipo": "informação sobre taxas",
+    "conteudo": "C: E qual seria o custo aproximado do seguro habitacional nesse caso?",
+    "chat_id": 18
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:09:48",
+    "tipo": "informação sobre taxas",
+    "conteudo": "V: O custo do seguro habitacional, em média, fica em torno de 1,5% do valor financiado, ou seja, R$ 525,00 para o seu financiamento de R$ 350.000,00.",
+    "chat_id": 18
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:10:32",
+    "tipo": "informação sobre taxas",
+    "conteudo": "C: Ok, muito obrigado! Então, para resumir, as taxas são R$ 750,00 de avaliação e R$ 525,00 de seguro, certo?",
+    "chat_id": 18
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:11:05",
+    "tipo": "informação sobre taxas",
+    "conteudo": "V: Exatamente! R$ 750,00 para a taxa de avaliação e R$ 525,00 para o seguro habitacional.  Adicionalmente, a taxa de administração mensal de 0,8% ao ano.",
+    "chat_id": 18
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:12:18",
+    "tipo": "informação sobre taxas",
+    "conteudo": "C:  Poderia me enviar um detalhamento em planilha com todas essas taxas e uma estimativa da parcela mensal com esses custos?",
+    "chat_id": 18
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:13:27",
+    "tipo": "informação sobre taxas",
+    "conteudo": "V: Claro! Enviarei uma planilha detalhada com todas as informações e uma simulação da parcela mensal para o seu e-mail cadastrado.  Por favor, verifique a caixa de entrada em alguns instantes.",
+    "chat_id": 18
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:14:52",
+    "tipo": "informação sobre taxas",
+    "conteudo": "C: Perfeito! Agradeço a atenção.",
+    "chat_id": 18
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:16:01",
+    "tipo": "informação sobre taxas",
+    "conteudo": "V:  Disponha! Se tiver mais alguma dúvida, não hesite em entrar em contato. Tenha um ótimo dia!",
+    "chat_id": 18
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:17:15",
+    "tipo": "informação sobre taxas",
+    "conteudo": "C:  Obrigado!",
+    "chat_id": 18
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:18:30",
+    "tipo": "informação sobre taxas",
+    "conteudo": "V:  À disposição! ",
+    "chat_id": 18
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "C: Olá, boa tarde! O app da EzyCredit travou de novo. Não consigo abrir.",
+    "chat_id": 19
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "V: Boa tarde! Lamentamos pelo inconveniente. Identifiquei seu contato. Para começarmos, poderia informar a versão do seu aplicativo e o sistema operacional do seu celular (Android ou iOS)?",
+    "chat_id": 19
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:02:30",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "C: Estou usando a versão 3.2.1 e Android.",
+    "chat_id": 19
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:03:45",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "V: Obrigado! Certo. Poderia, por favor, confirmar se você já tentou reiniciar o aplicativo e o seu dispositivo?",
+    "chat_id": 19
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:04:00",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "C: Já reiniciei o app várias vezes. Também reiniciei o celular.",
+    "chat_id": 19
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:05:00",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "V: Entendi.  Vamos tentar algumas soluções. Poderia, por favor, tentar fazer o ",
+    "chat_id": 19
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:05:30",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "V: ...limpar o cache do aplicativo? Vá em Configurações > Aplicativos > EzyCredit > Armazenamento > Limpar Cache.",
+    "chat_id": 19
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:06:15",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "C: Ok, já fiz isso. Mas continua travando.",
+    "chat_id": 19
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:07:00",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "V: Certo. Poderia me informar se ocorreu alguma alteração recente no seu celular, como instalação de novos aplicativos ou atualização do sistema operacional?",
+    "chat_id": 19
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:07:45",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "C: Não, nada foi alterado.",
+    "chat_id": 19
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:08:30",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "V:  Ok. Neste caso, vamos tentar reinstalar o aplicativo.  Por favor, desinstale e instale novamente a versão 3.2.1 da EzyCredit.",
+    "chat_id": 19
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:09:00",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "C: Já tentei reinstalar também.  Ainda não funciona!",
+    "chat_id": 19
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:09:45",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "V:  Entendo.  Permaneço aqui para auxiliar.  Poderia enviar uma captura de tela do erro que aparece quando o aplicativo trava? Isso nos ajudará a identificar a causa.",
+    "chat_id": 19
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:10:15",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "C:  Ok, estou enviando agora!",
+    "chat_id": 19
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:11:00",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "V:  Recebi a imagem.  Analisarei o que pode estar causando o problema.  Por favor, aguarde um momento enquanto verifico.",
+    "chat_id": 19
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:12:00",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "V:  Identifiquei um problema no servidor. A equipe técnica já está trabalhando para resolvê-lo.  A previsão é que o problema seja corrigido em até 30 minutos.  Agradeço a sua paciência!",
+    "chat_id": 19
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "C: Olá, bom dia! O app da EzyCredit está travando constantemente. Não consigo fazer nenhuma transação.",
+    "chat_id": 20
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "V: Bom dia! Lamentamos pelo inconveniente. Entendo que o aplicativo está travando. Poderia nos informar em qual dispositivo você está utilizando (Android ou iOS)?",
+    "chat_id": 20
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:02:45",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "C: Estou usando no Android, modelo Galaxy S22.",
+    "chat_id": 20
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:03:30",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "V: Obrigado! Já verificamos em nosso sistema. Para ajudar a identificar o problema, poderia nos informar se você fez alguma atualização recente no app ou do sistema Android?",
+    "chat_id": 20
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:04:12",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "C: Sim, atualizei o app ontem à noite.",
+    "chat_id": 20
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:05:01",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "V: Certo. Tentaremos reiniciar o app e verificar se o problema persiste. Por favor, aguarde alguns instantes.",
+    "chat_id": 20
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:06:30",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "C: Já reiniciei algumas vezes, mas continua travando.",
+    "chat_id": 20
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:07:18",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "V: Entendo. Para descartar problemas de memória, poderia limpar o cache do aplicativo? Vá em Configurações > Aplicativos > EzyCredit > Armazenamento > Limpar Cache.",
+    "chat_id": 20
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:08:05",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "C: Fiz isso, mas o problema continua. A tela fica branca e não responde.",
+    "chat_id": 20
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:09:02",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "V: Ok, obrigado pela informação. Vamos tentar forçar o fechamento do aplicativo. Em Android, pressione e segure o botão de voltar até o menu de fechamento do app.",
+    "chat_id": 20
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:09:50",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "C: Tentei, mas não funcionou. A tela ainda está travada.",
+    "chat_id": 20
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:10:30",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "V: Certo. Como último recurso, podemos tentar reinstalar o aplicativo. Isso pode corrigir conflitos de arquivos. Você se importa em prosseguir?",
+    "chat_id": 20
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:11:08",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "C: Sim, por favor.",
+    "chat_id": 20
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:12:05",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "V: Excelente! Por favor, siga as instruções para desinstalar e reinstalar o aplicativo. Se precisar de ajuda, me avise.",
+    "chat_id": 20
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:13:20",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "C: Ok, estou reinstalando agora...",
+    "chat_id": 20
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:14:01",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "V: Ótimo! Por favor, teste o aplicativo e me informe se o problema foi resolvido.",
+    "chat_id": 20
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "C: Olá! Gostaria de alterar meu endereço cadastrado na EzyCredit.",
+    "chat_id": 21
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "V: Olá! Bem-vindo à EzyCredit. Meu nome é Rafael, como posso ajudar? Para iniciarmos, poderia me informar seu CPF?",
+    "chat_id": 21
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:02:48",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "C: Meu CPF é 12345678901",
+    "chat_id": 21
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:03:32",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "V: Obrigado! Só um momento enquanto verifico seus dados. ... Certo, vejo que o endereço cadastrado atualmente é Rua das Flores, 123, Bairro Jardim, Cidade Nova. Deseja alterar isso?",
+    "chat_id": 21
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:04:17",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "C: Sim, gostaria de mudar. O novo endereço é Rua da Liberdade, 456, Centro, Cidade Velha.",
+    "chat_id": 21
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:05:01",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "V: Perfeito! Confirmando: Rua da Liberdade, 456, Centro, Cidade Velha.  Para finalizar, por gentileza, poderia confirmar seu e-mail para que eu possa confirmar essa alteração?",
+    "chat_id": 21
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:05:58",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "C: Meu e-mail é cliente@example.com",
+    "chat_id": 21
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:06:43",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "V: Ótimo! Alterando seu endereço para Rua da Liberdade, 456, Centro, Cidade Velha e confirmando seu e-mail como cliente@example.com.  A alteração será processada em até 24 horas.  Em breve você receberá uma notificação de confirmação.",
+    "chat_id": 21
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:07:19",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "C: Perfeito! Muito obrigado pela ajuda, Rafael.",
+    "chat_id": 21
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:08:05",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "V: Por nada! Se tiver mais alguma dúvida, não hesite em nos contatar. Tenha um ótimo dia!",
+    "chat_id": 21
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:08:52",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "C: Ficaria grato se pudesse me enviar uma confirmação por e-mail após o processamento.",
+    "chat_id": 21
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:09:37",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "V: Sem problemas! Assim que a alteração for concluída, você receberá um e-mail de confirmação junto com o novo endereço cadastrado.  Agradeço seu contato com a EzyCredit.",
+    "chat_id": 21
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:10:21",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "C: Tudo certo! Obrigado novamente.",
+    "chat_id": 21
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:11:08",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "V: Excelente! Fico à disposição.  Tenha um ótimo dia!",
+    "chat_id": 21
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:11:55",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "C: Ok, até mais!",
+    "chat_id": 21
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:12:41",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "V: Até mais! ",
+    "chat_id": 21
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "C: Olá, EzyCredit! Preciso atualizar meu endereço de e-mail. O antigo é marcos.silva@email.com",
+    "chat_id": 22
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:35",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "V: Olá, Marcos! Bem-vindo à EzyCredit. Para confirmar, você é o titular da conta com CPF 12345678901? ",
+    "chat_id": 22
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:02:12",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "C: Sim, correto! CPF 12345678901. Obrigado!",
+    "chat_id": 22
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:03:01",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "V: Perfeito, Marcos. Para garantir a segurança, vamos precisar de duas perguntas de segurança. Qual a cor favorita do seu cachorro?",
+    "chat_id": 22
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:04:48",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "C: A cor azul!",
+    "chat_id": 22
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:05:27",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "V: Ótimo! E qual o seu filme favorito de todos os tempos?",
+    "chat_id": 22
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:06:15",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "C: Interstellar",
+    "chat_id": 22
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:07:03",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "V: Tudo certo, Marcos. As informações foram confirmadas. Seu e-mail foi atualizado para novoe.email@email.com. Confirme se está correto.",
+    "chat_id": 22
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:07:59",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "C: Confirmado! Novoe.email@email.com. Muito obrigado!",
+    "chat_id": 22
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:08:47",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "V: Por nada, Marcos. Caso precise de mais alguma alteração, estamos à disposição.  Sua conta foi atualizada e o e-mail está registrado em nosso sistema.",
+    "chat_id": 22
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:09:32",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "C: Perfeito! Mais uma vez obrigado pela ajuda.",
+    "chat_id": 22
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:10:18",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "V: Agradecemos o seu contato com a EzyCredit. Tenha um ótimo dia!",
+    "chat_id": 22
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:11:05",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "C: Até mais!",
+    "chat_id": 22
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:11:52",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "V: Até breve, Marcos.",
+    "chat_id": 22
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:12:49",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "C:  Só mais uma coisa - só pra confirmar, o cpf continua 12345678901, certo?",
+    "chat_id": 22
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:13:27",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "V: Correto, Marcos. CPF: 12345678901. Sua atualização foi concluída com sucesso!",
+    "chat_id": 22
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "C: Olá, bom dia! Gostaria de saber como faço para fazer a portabilidade de crédito da EzyCredit.",
+    "chat_id": 23
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:00",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "V: Olá! Bom dia! É um prazer ajudar. A portabilidade de crédito com a EzyCredit é um serviço muito prático. Para começarmos, preciso de algumas informações. Qual o valor da dívida que você deseja transferir?",
+    "chat_id": 23
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:03:00",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "C: A dívida que quero transferir é de R$ 12.500,00, uma fatura do cartão de crédito.",
+    "chat_id": 23
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:04:00",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "V: Ótimo!  Para prosseguirmos, preciso da sua CPF e data de nascimento, por favor.",
+    "chat_id": 23
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:05:00",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "C: Meu CPF é 123.456.789-00 e minha data de nascimento é 10/05/1990.",
+    "chat_id": 23
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:06:00",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "V: Perfeito!  Já estou verificando as opções de transferência disponíveis para você.  Com R$ 12.500,00, podemos analisar opções com o Banco X ou o Banco Y.",
+    "chat_id": 23
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:07:00",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "C: Quais as taxas e condições para cada um desses bancos?",
+    "chat_id": 23
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:08:00",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "V:  O Banco X oferece uma taxa de transferência de 2% + IOF e uma taxa de juros de 1,5% ao mês.  Já o Banco Y não cobra taxa de transferência e os juros são de 1,2% ao mês.  Ambos os bancos têm prazos de análise de crédito variados.",
+    "chat_id": 23
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:09:00",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "C:  Entendi.  Qual o tempo médio de análise de crédito no Banco Y?",
+    "chat_id": 23
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:10:00",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "V: Em média, o prazo de análise no Banco Y é de 3 a 5 dias úteis.  Posso iniciar o processo de análise agora mesmo.  Você autoriza?",
+    "chat_id": 23
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:11:00",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "C: Sim, pode começar a análise no Banco Y.",
+    "chat_id": 23
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:12:00",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "V: Excelente!  Enviei o formulário de análise para o Banco Y. Você receberá um e-mail com as próximas instruções em breve.  Caso tenha alguma dúvida, é só chamar.",
+    "chat_id": 23
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:13:00",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "C:  Certo, obrigado pela ajuda!",
+    "chat_id": 23
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:14:00",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "V:  Por nada!  Tenha um ótimo dia e conte com a EzyCredit para suas necessidades de crédito.",
+    "chat_id": 23
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:15:00",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "C:  Ok, até mais!",
+    "chat_id": 23
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:16:00",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "V:  Sucesso!",
+    "chat_id": 23
+  },
+  {
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "C: Olá, boa tarde. Estou entrando em contato para reclamar do atendimento que recebi hoje, por telefone. Demoraram uma hora para me transferir e o atendente não resolveu meu problema.",
+    "chat_id": 24
+  },
+  {
+    "id": 2,
+    "data": "2024-10-27 10:01:00",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "V: Boa tarde! Lamentamos muito ouvir isso. Nossa prioridade é garantir um atendimento rápido e eficiente.  Poderia, por gentileza, me informar o número do protocolo da sua chamada?",
+    "chat_id": 24
+  },
+  {
+    "id": 3,
+    "data": "2024-10-27 10:02:00",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "C: Não tenho protocolo, pois ninguém anotou. O número do meu telefone é (11) 99999-8888.",
+    "chat_id": 24
+  },
+  {
+    "id": 4,
+    "data": "2024-10-27 10:03:00",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "V: Agradeço o seu telefone.  Verifiquei aqui e notei que você entrou em contato às 09:55.  Peço desculpas pela longa espera.  Qual era o motivo da sua ligação?",
+    "chat_id": 24
+  },
+  {
+    "id": 5,
+    "data": "2024-10-27 10:04:00",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "C: Eu estava tentando atualizar meu endereço e não conseguia. Fui atendido por um atendente que simplesmente me deixou em espera por muito tempo.",
+    "chat_id": 24
+  },
+  {
+    "id": 6,
+    "data": "2024-10-27 10:05:00",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "V: Entendo.  Sinto muito pela inconveniência causada.  Estou encaminhando seu caso para o setor responsável pela análise das falhas no sistema.  Você receberá um retorno em até 24 horas.",
+    "chat_id": 24
+  },
+  {
+    "id": 7,
+    "data": "2024-10-27 10:06:00",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "C: Ok, obrigado.  Será um tempo razoável.",
+    "chat_id": 24
+  },
+  {
+    "id": 8,
+    "data": "2024-10-27 10:07:00",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "V:  Para que possamos resolver seu problema o mais rápido possível, poderia confirmar o seu nome completo e CPF?",
+    "chat_id": 24
+  },
+  {
+    "id": 9,
+    "data": "2024-10-27 10:08:00",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "C: Meu nome é Maria Silva e o CPF é 123.456.789-01.",
+    "chat_id": 24
+  },
+  {
+    "id": 10,
+    "data": "2024-10-27 10:09:00",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "V:  Obrigado, Maria.  Anotei seu cadastro.  Estamos investigando o problema no sistema de atualização de endereço.  Manterei você atualizado sobre o andamento da análise.",
+    "chat_id": 24
+  },
+  {
+    "id": 11,
+    "data": "2024-10-27 10:10:00",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "C: Tudo bem, obrigado pela atenção.",
+    "chat_id": 24
+  },
+  {
+    "id": 12,
+    "data": "2024-10-27 10:11:00",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "V:  Por favor, acompanhe o status do seu chamado através do nosso site: www.EzyCredit.com.br/meu-chamado.  Você receberá notificações por e-mail e SMS.",
+    "chat_id": 24
+  },
+  {
+    "id": 13,
+    "data": "2024-10-27 10:12:00",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "C: Certo, farei isso.  Mais uma vez, obrigado.",
+    "chat_id": 24
+  },
+  {
+    "id": 14,
+    "data": "2024-10-27 10:13:00",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "V:  Disponha, Maria.  A EzyCredit se esforça para oferecer o melhor atendimento.  Qualquer dúvida, não hesite em nos contatar novamente.",
+    "chat_id": 24
+  },
+  {
+    "id": 15,
+    "data": "2024-10-27 10:14:00",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "C: Ok, até mais.",
+    "chat_id": 24
+  },
+  {
+    "id": 16,
+    "data": "2024-10-27 10:15:00",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "V:  Atenciosamente, a equipe EzyCredit.",
+    "chat_id": 24
+  }
+]
