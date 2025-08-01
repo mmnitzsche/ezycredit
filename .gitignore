@@ -1,4 +1,9 @@
-/*        # Ignora tudo na raiz (arquivos e pastas)
+# Ignora tudo na raiz (arquivos e pastas)
+*
 
-/!media/   # Não ignora a pasta media
-!media/**  # Não ignora o conteúdo dentro da pasta media
+# Exceto a pasta media
+!media/
+!media/**
+
+# Se quiser ignorar a pasta .gitignore e o próprio arquivo .gitignore não ser ignorado
+!.gitignore
