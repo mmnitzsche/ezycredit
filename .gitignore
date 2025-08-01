@@ -1,16 +1,6 @@
-# Arquivos Python
-__pycache__/
-*.pyc
-*.pyo
-
-# Variáveis de ambiente
-.env
-
-codes/auth.py
-# Editor
-.vscode/
-.idea/
-
-# Outros
-*.log
+codes/
+docs/
+files/
+icons/
 old/
+/*
