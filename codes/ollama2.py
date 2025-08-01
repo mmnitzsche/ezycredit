@@ -1,14 +1,19 @@
 #%%
 import requests
 import json
-from datetime import datetime, timedelta
+from datetime import datetime
 from pathlib import Path
-import pandas as pd 
+import pandas as pd
+import re
 
+# Pasta de saída
+output_folder = Path("conversas_geradas")
+output_folder.mkdir(parents=True, exist_ok=True)  # Cria a pasta se não existir
+output_file = output_folder / "chats_easycred_v2.json"
 
+# Data base
 base_data = datetime(2024, 10, 27, 10, 0)
 conversas = []
-
 
 TIPOS = [
     "pedido de crédito",
@@ -37,7 +42,7 @@ TIPOS = [
     "reclamação sobre atendimento"
 ]
 
-
+# Loop para geração de conversas
 for i, tipo in enumerate(TIPOS, 1):
     prompt = f"""
 Gere uma conversa fictícia de texto entre um cliente (C:) e um atendente (V:) da EasyCred, 
@@ -47,8 +52,8 @@ A conversa deve ter entre 6 a 16 mensagens, com alternância entre cliente e ate
 Formato:
 [
   {{
-    "agente":"humano" ou "bot"
-    "cliente_nome":"João da Sivlva"
+    "agente":"humano" ou "bot",
+    "cliente_nome":"João da Silva",
     "id": 1,
     "data": "2024-10-27 10:00:00",
     "tipo": "{tipo}",
@@ -67,8 +72,7 @@ Responda SOMENTE com o conteúdo JSON dentro de um bloco ```json.
 
     raw = r.json()["response"]
 
-    # Extração de JSON da resposta
-    import re
+    # Extração do conteúdo JSON
     match = re.search(r"```json\s*(\[\s*{.*?}\s*])\s*```", raw, re.DOTALL)
     if match:
         try:
@@ -77,14 +81,13 @@ Responda SOMENTE com o conteúdo JSON dentro de um bloco ```json.
         except Exception as e:
             print(f"⚠️ Erro ao parsear JSON do chat {i}: {e}")
     else:
-        print(f"⚠️ Nenhum JSON válido encontrado para o tipo {tipo}")
+        print(f"⚠️ Nenhum JSON válido encontrado para o tipo '{tipo}'")
 
 # Salvar resultado final
-with open("chats_easycred.json", "w", encoding="utf-8") as f:
+with open(output_file, "w", encoding="utf-8") as f:
     json.dump(conversas, f, ensure_ascii=False, indent=2)
 
-print("✅ Arquivo gerado com sucesso: chats_easycred.json")
+print(f"✅ Arquivo gerado com sucesso: {output_file}")
 
+# Exibir DataFrame no final
 
-chat_df = pd.json_normalize(conversas)
-chat_df
