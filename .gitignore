@@ -1,5 +1,6 @@
-
-# Não ignora o diretório "media" e seu conteúdo
 /codes/auth.py
 /docs
 /old
+__pycache__/
+**/__pycache__/
+
