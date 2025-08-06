@@ -1,0 +1,1794 @@
+[
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "Olá João, bem-vindo à EasyCred! Para começarmos, qual o valor do crédito que você precisa?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "pedido de crédito",
+    "conteudo": "Oi! Eu gostaria de solicitar um crédito de R$ 5.000."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 3,
+    "data": "2024-10-27 10:02:47",
+    "tipo": "pedido de crédito",
+    "conteudo": "Perfeito! Para prosseguirmos, preciso de algumas informações sobre você. Poderia me informar sua data de nascimento?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 4,
+    "data": "2024-10-27 10:03:52",
+    "tipo": "pedido de crédito",
+    "conteudo": "20 de março de 1990."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 5,
+    "data": "2024-10-27 10:04:21",
+    "tipo": "pedido de crédito",
+    "conteudo": "Obrigado! Agora, qual é a sua profissão?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 6,
+    "data": "2024-10-27 10:05:18",
+    "tipo": "pedido de crédito",
+    "conteudo": "Sou programador."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 7,
+    "data": "2024-10-27 10:06:03",
+    "tipo": "pedido de crédito",
+    "conteudo": "Excelente! E qual o seu endereço completo?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 8,
+    "data": "2024-10-27 10:07:39",
+    "tipo": "pedido de crédito",
+    "conteudo": "Rua das Flores, 123, apartamento 401, Centro, São Paulo - SP."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 9,
+    "data": "2024-10-27 10:08:15",
+    "tipo": "pedido de crédito",
+    "conteudo": "Certo! Aguarde um momento enquanto verifico sua elegibilidade para R$ 5.000..."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 10,
+    "data": "2024-10-27 10:09:01",
+    "tipo": "pedido de crédito",
+    "conteudo": "João, com base nas informações fornecidas, sua solicitação de R$ 5.000 foi aprovada com algumas condições..."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 11,
+    "data": "2024-10-27 10:09:58",
+    "tipo": "pedido de crédito",
+    "conteudo": "Quais são as condições?"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 12,
+    "data": "2024-10-27 10:10:32",
+    "tipo": "pedido de crédito",
+    "conteudo": "A taxa de juros é de 2,5% ao mês e o prazo de pagamento é de 12 meses. Você pode simular o valor das parcelas detalhadamente em nosso site."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 13,
+    "data": "2024-10-27 10:11:17",
+    "tipo": "pedido de crédito",
+    "conteudo": "Entendi. Como posso dar andamento à contratação?"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 14,
+    "data": "2024-10-27 10:12:08",
+    "tipo": "pedido de crédito",
+    "conteudo": "Para finalizar, você pode clicar neste link: [link para simulação e contratação] e seguir as instruções. Para qualquer dúvida, estamos à disposição!"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 15,
+    "data": "2024-10-27 10:13:05",
+    "tipo": "pedido de crédito",
+    "conteudo": "Muito obrigado pela ajuda!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 16,
+    "data": "2024-10-27 10:13:52",
+    "tipo": "pedido de crédito",
+    "conteudo": "De nada, João! Tenha um ótimo dia!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "Olá João, seja bem-vindo à EasyCred! Em que posso te ajudar hoje?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 2,
+    "data": "2024-10-27 10:01:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "Oi! Queria saber como faço para solicitar um crédito."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 3,
+    "data": "2024-10-27 10:02:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "Claro, João! Para iniciar, preciso de algumas informações. Qual o valor aproximado do crédito que você deseja?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 4,
+    "data": "2024-10-27 10:03:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "Estava pensando em algo em torno de R$5.000,00."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 5,
+    "data": "2024-10-27 10:04:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "Entendido! Além do valor, preciso saber seu CPF e data de nascimento, por favor."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 6,
+    "data": "2024-10-27 10:05:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "Meu CPF é 123.456.789-01 e minha data de nascimento é 10/05/1990."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 7,
+    "data": "2024-10-27 10:06:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "Obrigado, João. Confirmando: CPF 123.456.789-01 e data de nascimento 10/05/1990.  Estou verificando sua análise de crédito..."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 8,
+    "data": "2024-10-27 10:07:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "João, sua análise de crédito está sendo processada. Pode levar alguns minutos.  Enquanto isso, você pode verificar algumas opções de crédito disponíveis com juros de até 2,99% ao mês."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 9,
+    "data": "2024-10-27 10:08:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "Entendi.  E o que eu preciso fazer depois de aprovado?"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 10,
+    "data": "2024-10-27 10:09:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "Após a aprovação, você receberá um contrato digital para assinatura e o valor será creditado em sua conta em até 24 horas úteis. Posso te ajudar a simular as parcelas?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 11,
+    "data": "2024-10-27 10:10:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "Sim, por favor. Com R$5.000,00, em 12 meses."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 12,
+    "data": "2024-10-27 10:11:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "Cálculo realizado. As parcelas seriam de aproximadamente R$450,00.  Gostaria de prosseguir com a simulação?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 13,
+    "data": "2024-10-27 10:12:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "Sim, sim. Pode mostrar as opções de parcelamento."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 14,
+    "data": "2024-10-27 10:13:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "Aqui estão algumas opções: 60 meses com parcelas de R$850,00; 120 meses com parcelas de R$450,00.  Qual a sua preferência?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 15,
+    "data": "2024-10-27 10:14:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "Prefiro as 120 meses, com R$450,00."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 16,
+    "data": "2024-10-27 10:15:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "Ótima escolha, João!  Para prosseguir, por favor, confirme se todas as informações estão corretas: Valor solicitado: R$5.000,00, Prazo: 120 meses, Valor da parcela: R$450,00.  Está tudo certo?"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "EasyCred: Olá João, seja bem-vindo! Como posso ajudar com seu pedido de crédito?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Oi! Queria saber quais são as opções de crédito que vocês oferecem e qual o valor máximo que consigo solicitar."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 3,
+    "data": "2024-10-27 10:02:30",
+    "tipo": "pedido de crédito",
+    "conteudo": "EasyCred: Ótimo!  Para te ajudar, preciso de algumas informações. Qual o valor aproximado que você pretende solicitar e qual o objetivo do crédito (compra de bens, investimento, etc.)?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 4,
+    "data": "2024-10-27 10:03:45",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Estava pensando em algo entre R$5.000 e R$10.000, para reformar a minha casa."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 5,
+    "data": "2024-10-27 10:04:50",
+    "tipo": "pedido de crédito",
+    "conteudo": "EasyCred: Perfeito! Com esse valor e considerando seu objetivo, podemos oferecer opções de crédito pessoal e financiamento imobiliário.  Gostaria de saber mais sobre as taxas de juros para cada uma?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 6,
+    "data": "2024-10-27 10:05:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Sim, por favor. Quais são as taxas de juros atualmente?"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 7,
+    "data": "2024-10-27 10:06:15",
+    "tipo": "pedido de crédito",
+    "conteudo": "EasyCred: Atualmente, estamos oferecendo taxas de juros a partir de 1,99% ao mês para crédito pessoal e 2,49% ao mês para financiamento imobiliário. Isso pode variar dependendo do seu score de crédito."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 8,
+    "data": "2024-10-27 10:07:30",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Meu score de crédito é bom, tenho bom histórico de pagamentos.  Quais documentos preciso apresentar?"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 9,
+    "data": "2024-10-27 10:08:45",
+    "tipo": "pedido de crédito",
+    "conteudo": "EasyCred: Para aprovação, solicitamos RG, CPF, comprovante de renda (holerite ou extrato bancário) e comprovante de residência.  Podemos te enviar a lista completa em PDF."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 10,
+    "data": "2024-10-27 10:09:50",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Certo! Envie a lista em PDF, por favor."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 11,
+    "data": "2024-10-27 10:10:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "EasyCred:  Lista enviada!  Ela chegou no seu e-mail cadastrado.  Alguma outra dúvida?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 12,
+    "data": "2024-10-27 10:11:15",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Não, por enquanto é isso. Obrigado!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 13,
+    "data": "2024-10-27 10:12:30",
+    "tipo": "pedido de crédito",
+    "conteudo": "EasyCred:  Disponha!  Estamos à disposição para qualquer necessidade. Tenha um ótimo dia!"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 14,
+    "data": "2024-10-27 10:13:45",
+    "tipo": "pedido de crédito",
+    "conteudo": "C: Obrigado!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 15,
+    "data": "2024-10-27 10:14:50",
+    "tipo": "pedido de crédito",
+    "conteudo": "EasyCred:  Às ordens!"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 16,
+    "data": "2024-10-27 10:15:00",
+    "tipo": "pedido de crédito",
+    "conteudo": "C:  (Sem resposta)"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "cancelamento",
+    "conteudo": "Olá João, bem-vindo à EasyCred. Para iniciarmos o processo de cancelamento, por favor, confirme seu número de telefone registrado na conta."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "cancelamento",
+    "conteudo": "Meu número é 11999999999"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 3,
+    "data": "2024-10-27 10:02:30",
+    "tipo": "cancelamento",
+    "conteudo": "Verificando... Confirmado, João. Você possui uma conta EasyCred vinculada ao número 11999999999.  Por favor, informe o motivo do cancelamento."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 4,
+    "data": "2024-10-27 10:03:45",
+    "tipo": "cancelamento",
+    "conteudo": "Não estou mais utilizando o serviço."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 5,
+    "data": "2024-10-27 10:04:50",
+    "tipo": "cancelamento",
+    "conteudo": "Entendido, João.  Confirmamos o desejo de cancelar sua assinatura.  Para prosseguirmos, precisamos verificar sua identidade.  Por favor, responda com o CPF cadastrado na conta."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 6,
+    "data": "2024-10-27 10:05:10",
+    "tipo": "cancelamento",
+    "conteudo": "111.111.111-11"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 7,
+    "data": "2024-10-27 10:06:20",
+    "tipo": "cancelamento",
+    "conteudo": "Verificando... Confirmação de CPF: 111.111.111-11.  Confirmamos que você é o titular da conta.  Sua assinatura será cancelada com efeito imediato.  Você receberá uma confirmação por e-mail em breve."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 8,
+    "data": "2024-10-27 10:07:35",
+    "tipo": "cancelamento",
+    "conteudo": "Ótimo, obrigado!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 9,
+    "data": "2024-10-27 10:08:45",
+    "tipo": "cancelamento",
+    "conteudo": "Dispondo do seu tempo, João.  Enviaremos um e-mail de confirmação para o endereço cadastrado.  Alguma outra dúvida?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 10,
+    "data": "2024-10-27 10:09:50",
+    "tipo": "cancelamento",
+    "conteudo": "Não, tudo certo.  Mais nada."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 11,
+    "data": "2024-10-27 10:10:00",
+    "tipo": "cancelamento",
+    "conteudo": "Excelente!  Agradecemos por utilizar a EasyCred. Tenha um bom dia!"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 12,
+    "data": "2024-10-27 10:11:15",
+    "tipo": "cancelamento",
+    "conteudo": "Obrigado!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 13,
+    "data": "2024-10-27 10:12:20",
+    "tipo": "cancelamento",
+    "conteudo": "Agradecemos o seu contato. Se precisar de algo no futuro, não hesite em nos contatar."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 14,
+    "data": "2024-10-27 10:13:30",
+    "tipo": "cancelamento",
+    "conteudo": "Tudo bem."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 15,
+    "data": "2024-10-27 10:14:40",
+    "tipo": "cancelamento",
+    "conteudo": "Fico feliz em ajudar, João. Tenha um ótimo dia!"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 16,
+    "data": "2024-10-27 10:15:50",
+    "tipo": "cancelamento",
+    "conteudo": "Ok, tchau!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "cancelamento",
+    "conteudo": "Olá João, seja bem-vindo à EasyCred. Para iniciarmos o processo de cancelamento, por favor, confirme seu CPF."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "cancelamento",
+    "conteudo": "Meu CPF é 123.456.789-00"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 3,
+    "data": "2024-10-27 10:02:30",
+    "tipo": "cancelamento",
+    "conteudo": "Verificando CPF... CPF 123.456.789-00 localizado em nome de João da Silva. Qual o motivo do cancelamento?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 4,
+    "data": "2024-10-27 10:03:45",
+    "tipo": "cancelamento",
+    "conteudo": "Eu não estou mais utilizando o serviço."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 5,
+    "data": "2024-10-27 10:04:50",
+    "tipo": "cancelamento",
+    "conteudo": "Entendo. Para confirmar o cancelamento, precisamos que você selecione uma das opções abaixo: (1) Cancelamento imediato sem reembolso. (2) Solicitar reembolso (prazo de processamento: 7 a 15 dias úteis)."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 6,
+    "data": "2024-10-27 10:05:10",
+    "tipo": "cancelamento",
+    "conteudo": "Eu quero o reembolso, por favor."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 7,
+    "data": "2024-10-27 10:06:20",
+    "tipo": "cancelamento",
+    "conteudo": "Ok, processando solicitação de reembolso. Para prosseguir, por gentileza, confirme seu endereço de e-mail para envio de notificações sobre o reembolso."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 8,
+    "data": "2024-10-27 10:07:30",
+    "tipo": "cancelamento",
+    "conteudo": "joao.silva@email.com"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 9,
+    "data": "2024-10-27 10:08:40",
+    "tipo": "cancelamento",
+    "conteudo": "Email confirmado! A solicitação de reembolso foi enviada. Você receberá um e-mail de confirmação em breve. Em caso de dúvidas, entre em contato conosco."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 10,
+    "data": "2024-10-27 10:09:50",
+    "tipo": "cancelamento",
+    "conteudo": "Obrigado!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 11,
+    "data": "2024-10-27 10:10:00",
+    "tipo": "cancelamento",
+    "conteudo": "De nada, João! A EasyCred agradece o seu contato."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 12,
+    "data": "2024-10-27 10:11:15",
+    "tipo": "cancelamento",
+    "conteudo": "Só mais uma pergunta: preciso fazer alguma coisa para finalizar o cancelamento?"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 13,
+    "data": "2024-10-27 10:12:25",
+    "tipo": "cancelamento",
+    "conteudo": "Não, João. A solicitação de cancelamento foi processada. Você receberá um e-mail de confirmação final em até 24 horas.  O seu plano será cancelado após 7 dias úteis."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 14,
+    "data": "2024-10-27 10:13:40",
+    "tipo": "cancelamento",
+    "conteudo": "Perfeito, muito obrigado pela ajuda!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 15,
+    "data": "2024-10-27 10:14:50",
+    "tipo": "cancelamento",
+    "conteudo": "Disponha, João! Tenha um ótimo dia."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 16,
+    "data": "2024-10-27 10:15:00",
+    "tipo": "cancelamento",
+    "conteudo": "Tchau!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Olá João, bem-vindo à EasyCred! Para começarmos seu pedido de refinanciamento, por favor, informe o valor do seu empréstimo atual e a instituição financeira original."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 2,
+    "data": "2024-10-27 10:01:32",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Oi!  Tenho um empréstimo no Banco Alfa no valor de R$ 35.000."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 3,
+    "data": "2024-10-27 10:02:15",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Ótimo!  Qual a taxa de juros do seu empréstimo atual e o prazo restante?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 4,
+    "data": "2024-10-27 10:03:58",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "A taxa é de 3,9% ao ano e o prazo é de 60 meses."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 5,
+    "data": "2024-10-27 10:04:47",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Perfeito. Agora, qual o valor que você pretende refinanciar? (Ex: R$ 35.000 ou um valor diferente)"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 6,
+    "data": "2024-10-27 10:05:31",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Gostaria de refinanciar o valor total de R$ 35.000."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 7,
+    "data": "2024-10-27 10:06:22",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Certo. Qual a sua renda mensal líquida?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 8,
+    "data": "2024-10-27 10:07:18",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "R$ 4.500."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 9,
+    "data": "2024-10-27 10:08:05",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Obrigado, João.  Estamos avaliando suas opções.  Por favor, aguarde enquanto verificamos a viabilidade do seu pedido. Isso pode levar alguns minutos."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 10,
+    "data": "2024-10-27 10:09:01",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Ok, obrigado!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 11,
+    "data": "2024-10-27 10:10:58",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "João, identificamos uma proposta de refinanciamento com taxa de juros de 4,2% ao ano e prazo de 60 meses, com valor total de R$ 36.500.  Gostaria de confirmar?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 12,
+    "data": "2024-10-27 10:11:45",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Sim, podemos aumentar o valor para R$ 36.500, pois preciso de um pouco mais de crédito."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 13,
+    "data": "2024-10-27 10:12:58",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Excelente! A taxa de juros e o prazo permanecem os mesmos.  Para prosseguir, precisamos de uma cópia digital do seu RG ou CNH.  Você pode enviar uma foto para o nosso chat."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 14,
+    "data": "2024-10-27 10:14:32",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Ok, já enviei a foto!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 15,
+    "data": "2024-10-27 10:15:28",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Verificamos sua documentação.  Sua proposta foi aprovada!  Em breve, você receberá as instruções para a assinatura do contrato."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 16,
+    "data": "2024-10-27 10:16:23",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Show! Muito obrigado pela ajuda!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Olá João, bem-vindo à EasyCred! Como posso ajudar você hoje?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Oi! Estou interessado em refazer meu empréstimo. Tenho um empréstimo no Banco Alfa e gostaria de ver minhas opções."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 3,
+    "data": "2024-10-27 10:02:48",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Ok João, para começarmos, preciso de algumas informações. Poderia me informar o valor original do seu empréstimo e o nome do banco?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 4,
+    "data": "2024-10-27 10:03:52",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "O valor original era R$ 15.000, no Banco Alfa."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 5,
+    "data": "2024-10-27 10:04:31",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Perfeito! E qual o valor atual da sua renda mensal?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 6,
+    "data": "2024-10-27 10:05:18",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "R$ 4.500."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 7,
+    "data": "2024-10-27 10:06:22",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Certo.  E qual o prazo máximo que você teria disponível para pagamento do novo empréstimo?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 8,
+    "data": "2024-10-27 10:07:35",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Eu gostaria de algo em torno de 60 meses."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 9,
+    "data": "2024-10-27 10:08:49",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Entendido.  Estou simulando algumas opções para você...  Um momento, por favor."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 10,
+    "data": "2024-10-27 10:09:53",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "João, encontrei algumas opções de refinanciamento com taxas de juros competitivas. Uma delas, com 60 meses, teria uma parcela de R$ 850,00.  Gostaria de receber mais detalhes?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 11,
+    "data": "2024-10-27 10:10:29",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Isso parece bom!  Poderia me enviar um resumo com os valores e as taxas?"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 12,
+    "data": "2024-10-27 10:11:45",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Claro! Envio agora mesmo para o seu e-mail: joao.silva@email.com"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 13,
+    "data": "2024-10-27 10:12:57",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Ótimo! Obrigado pela ajuda."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 14,
+    "data": "2024-10-27 10:13:59",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Disponha João! Se precisar de mais alguma coisa, é só chamar. Tenha um bom dia!"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 15,
+    "data": "2024-10-27 10:14:30",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Obrigado novamente!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 16,
+    "data": "2024-10-27 10:15:00",
+    "tipo": "pedido de refinanciamento",
+    "conteudo": "Cordialmente, EasyCred."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "Olá João, bem-vindo à EasyCred. Em que posso ajudar hoje?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 2,
+    "data": "2024-10-27 10:01:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "Oi! Eu gostaria de conversar sobre o ajuste de parcelas do meu empréstimo."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 3,
+    "data": "2024-10-27 10:02:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "Por favor, informe o número do seu contrato para que eu possa verificar seu perfil."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 4,
+    "data": "2024-10-27 10:03:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "É o contrato número EC-2023-7891-543."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 5,
+    "data": "2024-10-27 10:04:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "Certo, João. Aguarde um momento enquanto acesso seus dados. ... Ok, encontrei seu contrato.  Você gostaria de aumentar ou diminuir o valor das parcelas?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 6,
+    "data": "2024-10-27 10:05:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "Eu gostaria de tentar estender as parcelas, se possível. Estou com dificuldades para pagar as parcelas atuais."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 7,
+    "data": "2024-10-27 10:06:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "Entendo, João. Verificando as opções de parcelamento...  Podemos estender seu empréstimo em até 12 meses, o que resultará em um aumento no valor total pago devido aos juros.  Gostaria que eu detalhasse o valor do aumento?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 8,
+    "data": "2024-10-27 10:07:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "Sim, por favor.  Quero saber o valor exato que eu pagaria com a extensão."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 9,
+    "data": "2024-10-27 10:08:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "Com a extensão para 12 meses, o valor total pago aumentaria em R$ 247,89, elevando o montante total da dívida para R$ 18.247,89.  Essa taxa de juros é de 1,99% ao mês."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 10,
+    "data": "2024-10-27 10:09:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "Uau, é um pouco mais do que eu esperava.  Existe alguma outra opção que eu possa considerar?"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 11,
+    "data": "2024-10-27 10:10:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "Sim, João. Podemos reduzir o número de parcelas, mas isso aumentará o valor de cada parcela individualmente. Que número de parcelas você prefere?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 12,
+    "data": "2024-10-27 10:11:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "Que tal 6 meses? Eu realmente preciso de uma parcela menor."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 13,
+    "data": "2024-10-27 10:12:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "Certo. Com 6 parcelas, o valor total pago aumentaria em R$ 162,68, elevando o montante total da dívida para R$ 17.877,89. A taxa de juros permanece em 1,99% ao mês."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 14,
+    "data": "2024-10-27 10:13:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "Ok, isso parece mais viável.  Podemos prosseguir com essa opção?"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 15,
+    "data": "2024-10-27 10:14:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "Sim, João. Para confirmar o ajuste, preciso que você autorize a alteração das condições do seu contrato.  Confirme a alteração para prosseguir."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 16,
+    "data": "2024-10-27 10:15:00",
+    "tipo": "ajuste de parcelas",
+    "conteudo": "Confirmo!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "Olá João, seja bem-vindo à EasyCred! Para solicitar a segunda via do seu boleto, preciso de algumas informações. Poderia, por favor, me informar o número da sua conta?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 2,
+    "data": "2024-10-27 10:03:12",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "Meu número de conta é 123456-789"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 3,
+    "data": "2024-10-27 10:05:48",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "Obrigado, João. Poderia me informar o valor do boleto que deseja a segunda via?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 4,
+    "data": "2024-10-27 10:07:21",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "O valor é R$ 150,00"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 5,
+    "data": "2024-10-27 10:09:55",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "Certo, João. Verificando... Confirma a data de vencimento do boleto como 28/10/2024?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 6,
+    "data": "2024-10-27 10:11:33",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "Sim, está correto."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 7,
+    "data": "2024-10-27 10:13:01",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "Ótimo! Sua segunda via do boleto está sendo gerada. Em breve, você receberá um novo boleto por e-mail e SMS com as informações necessárias. Agradecemos o contato com a EasyCred!"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 8,
+    "data": "2024-10-27 10:14:58",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "Perfeito, muito obrigado pela ajuda!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 9,
+    "data": "2024-10-27 10:16:22",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "Disponha, João! Se precisar de mais alguma coisa, estamos à disposição. Tenha um ótimo dia!"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 10,
+    "data": "2024-10-27 10:17:45",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "Ok, até mais!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 11,
+    "data": "2024-10-27 10:19:10",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "Sem mais! A EasyCred está sempre presente para te atender."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 12,
+    "data": "2024-10-27 10:20:35",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "Muito obrigado novamente!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 13,
+    "data": "2024-10-27 10:21:58",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "Estamos felizes em ajudar! Boas finanças!"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 14,
+    "data": "2024-10-27 10:23:12",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "Tudo bem!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 15,
+    "data": "2024-10-27 10:24:48",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "Tenha um ótimo dia! Qualquer dúvida, é só chamar."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 16,
+    "data": "2024-10-27 10:25:50",
+    "tipo": "solicitação de segunda via de boleto",
+    "conteudo": "Obrigado!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "Olá João, seja bem-vindo à EasyCred! Em que posso ajudar hoje?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 2,
+    "data": "2024-10-27 10:01:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "Oi! Queria entender melhor as taxas de avaliação do crédito. Vi no site, mas não entendi bem todos os valores."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 3,
+    "data": "2024-10-27 10:02:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "Entendo, João. As taxas de avaliação do crédito da EasyCred são compostas por uma taxa fixa de R$ 49,90 e uma taxa variável, calculada com base no risco de crédito. "
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 4,
+    "data": "2024-10-27 10:03:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "A taxa variável, como é calculada? Eu tenho um score de crédito um pouco baixo..."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 5,
+    "data": "2024-10-27 10:04:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "A taxa variável é calculada com base em um modelo de risco que leva em conta seu score de crédito, histórico de pagamentos, renda e outras informações. Para ter uma estimativa precisa, você pode inserir seus dados no nosso simulador aqui: [link do simulador]"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 6,
+    "data": "2024-10-27 10:05:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "Ok, entendi. E se eu inserir meus dados no simulador, a taxa já aparece calculada?"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 7,
+    "data": "2024-10-27 10:06:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "Sim, João! O simulador mostrará a taxa de avaliação do crédito assim que você inserir seus dados. Além disso, você poderá visualizar o detalhamento de cada componente da taxa."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 8,
+    "data": "2024-10-27 10:07:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "Certo. E se eu mudar alguma informação no simulador, a taxa muda também?"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 9,
+    "data": "2024-10-27 10:08:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "Sim, João! O cálculo da taxa de avaliação do crédito é dinâmico e atualizado em tempo real com base nos seus dados. Experimente e veja como o valor muda!"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 10,
+    "data": "2024-10-27 10:09:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "Beleza! Vou tentar agora mesmo. Obrigado pela ajuda."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 11,
+    "data": "2024-10-27 10:10:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "Disponha, João! Se tiver mais alguma dúvida, é só chamar. Tenha um ótimo dia!"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 12,
+    "data": "2024-10-27 10:11:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "Ok, valeu!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 13,
+    "data": "2024-10-27 10:12:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "Por nada! Estamos sempre à disposição."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 14,
+    "data": "2024-10-27 10:13:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "Tudo certo!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 15,
+    "data": "2024-10-27 10:14:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "Ótimo! Ficamos felizes em ajudar."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 16,
+    "data": "2024-10-27 10:15:00",
+    "tipo": "informação sobre taxas",
+    "conteudo": "Muito obrigado!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "Olá João, seja bem-vindo à EasyCred Helpdesk. Percebi que o aplicativo está travando. Poderia me informar qual a mensagem de erro que aparece?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "Oi! Aparece uma mensagem dizendo 'Erro ao conectar com o servidor'. Já reiniciei o app várias vezes."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 3,
+    "data": "2024-10-27 10:02:30",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "Entendo, João. Obrigado por confirmar. Poderia me informar qual o sistema operacional do seu aparelho (Android ou iOS) e a versão do aplicativo EasyCred que você está utilizando?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 4,
+    "data": "2024-10-27 10:03:45",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "Android, versão 13."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 5,
+    "data": "2024-10-27 10:04:00",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "Ok, João. A versão 13 pode estar causando incompatibilidade em alguns casos. Vamos tentar algumas soluções. Primeiro, verifique se há alguma atualização pendente do sistema operacional do seu aparelho."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 6,
+    "data": "2024-10-27 10:05:10",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "Já fiz isso, não tem atualização."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 7,
+    "data": "2024-10-27 10:06:20",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "Certo. Em seguida, vamos tentar limpar o cache do aplicativo. Por favor, siga estes passos: Vá em 'Configurações' > 'Aplicativos' > EasyCred > 'Limpar Cache'."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 8,
+    "data": "2024-10-27 10:07:30",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "Limpei o cache, mas continua travando..."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 9,
+    "data": "2024-10-27 10:08:45",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "Entendo. João, por favor, pode me enviar uma captura de tela da mensagem de erro que aparece após a limpeza do cache?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 10,
+    "data": "2024-10-27 10:09:00",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "Enviei a captura de tela."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 11,
+    "data": "2024-10-27 10:10:15",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "Obrigado, João. Analisando a imagem, parece haver um problema de conexão de rede. Poderia verificar se o Wi-Fi está estável ou tentar usar a rede móvel para ver se o problema persiste?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 12,
+    "data": "2024-10-27 10:11:20",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "Estou usando a rede móvel agora... ainda travando."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 13,
+    "data": "2024-10-27 10:12:30",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "João, parece que a causa do problema está relacionada à sua conexão de internet. Podemos agendar um contato com o nosso time de infraestrutura para investigar a questão. Posso fazer isso para você?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 14,
+    "data": "2024-10-27 10:13:45",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "Sim, por favor."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 15,
+    "data": "2024-10-27 10:14:00",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "Certo, João. Agendado o contato com a equipe de infraestrutura. Um técnico entrará em contato com você em até 24 horas. Há mais alguma coisa em que posso ajudar?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 16,
+    "data": "2024-10-27 10:15:15",
+    "tipo": "atendimento helpdesk (app travando)",
+    "conteudo": "Não, obrigado!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "Olá João, seja bem-vindo à EasyCred! Para começarmos, por favor, confirme seu nome completo para verificação."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "Meu nome é João da Silva."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 3,
+    "data": "2024-10-27 10:02:48",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "Ok, João. Para qual dado você deseja fazer a alteração? Podemos atualizar endereço, telefone ou e-mail."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 4,
+    "data": "2024-10-27 10:03:52",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "Gostaria de atualizar meu endereço."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 5,
+    "data": "2024-10-27 10:04:29",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "Certo! Por favor, informe o novo endereço completo, incluindo CEP."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 6,
+    "data": "2024-10-27 10:05:11",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "Novo endereço: Rua das Flores, 123 - Bairro Jardim, São Paulo - SP, CEP: 01234-567"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 7,
+    "data": "2024-10-27 10:06:33",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "Verificando... O endereço foi atualizado com sucesso!  Confirme seu e-mail para validar a alteração."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 8,
+    "data": "2024-10-27 10:07:55",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "Meu e-mail é joao.silva@email.com"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 9,
+    "data": "2024-10-27 10:08:47",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "Excelente! Sua alteração foi confirmada.  Para garantir a segurança da sua conta, você receberá um código de verificação por SMS em breve."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 10,
+    "data": "2024-10-27 10:09:18",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "Ok, obrigada!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 11,
+    "data": "2024-10-27 10:10:32",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "Aguarde um momento enquanto enviamos o código de verificação.  Sua satisfação é nossa prioridade!"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 12,
+    "data": "2024-10-27 10:11:50",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "Recebi o código!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 13,
+    "data": "2024-10-27 10:12:49",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "Parabéns, João! Sua alteração de dados cadastrais foi concluída com sucesso.  Qualquer outra dúvida, estamos à disposição!"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 14,
+    "data": "2024-10-27 10:13:21",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "Muito obrigado pela ajuda!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 15,
+    "data": "2024-10-27 10:14:15",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "Tenha um ótimo dia, João!  A EasyCred agradece o seu contato."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 16,
+    "data": "2024-10-27 10:15:03",
+    "tipo": "mudança de dados cadastrais",
+    "conteudo": "Certo, até mais!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "EasyCred: Olá, João! Bem-vindo à EasyCred. Posso te ajudar com a portabilidade de crédito? Para começarmos, qual o valor da dívida que você deseja transferir?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "C: Oi! Sim, preciso de ajuda. A dívida que quero transferir é no Banco X, totalizando R$ 15.000."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 3,
+    "data": "2024-10-27 10:02:48",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "EasyCred: Ótimo, João. Para prosseguirmos, preciso de algumas informações para identificar sua conta. Pode me informar seu CPF?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 4,
+    "data": "2024-10-27 10:03:52",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "C: Meu CPF é 123.456.789-01"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 5,
+    "data": "2024-10-27 10:04:11",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "EasyCred: Verificando... Certo, João.  Com seu CPF, estamos analisando as melhores opções de portabilidade com instituições financeiras parceiras.  Aguarde um momento."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 6,
+    "data": "2024-10-27 10:05:30",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "EasyCred:  Encontramos algumas ofertas interessantes!  O Banco Y oferece uma taxa de juros de 1,99% ao mês, e o Banco Z, 2,25% ao mês. Qual você prefere?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 7,
+    "data": "2024-10-27 10:06:15",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "C: Eu acho melhor o Banco Y, a taxa é mais baixa."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 8,
+    "data": "2024-10-27 10:07:00",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "EasyCred: Excelente escolha, João! Para formalizar a portabilidade, precisamos de uma selfie do seu documento de identidade (RG) para validação. Pode enviar?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 9,
+    "data": "2024-10-27 10:08:22",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "C: Já enviando a foto agora!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 10,
+    "data": "2024-10-27 10:09:05",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "EasyCred: Ótimo! A foto foi recebida e está sendo processada. Em alguns instantes, o status da portabilidade será atualizado."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 11,
+    "data": "2024-10-27 10:10:30",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "EasyCred: A portabilidade foi aprovada, João!  A transferência da dívida para o Banco Y está em andamento e deve ser concluída em até 3 dias úteis.  Você receberá um e-mail de confirmação com todos os detalhes."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 12,
+    "data": "2024-10-27 10:11:58",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "C: Que ótimo! Muito obrigado pela ajuda!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 13,
+    "data": "2024-10-27 10:13:01",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "EasyCred: Por nada, João!  Se precisar de mais alguma ajuda, não hesite em nos contatar. Tenha um ótimo dia!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 14,
+    "data": "2024-10-27 10:14:19",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "C: Pode deixar, obrigado!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 15,
+    "data": "2024-10-27 10:15:32",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "EasyCred: Até mais!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 16,
+    "data": "2024-10-27 10:16:45",
+    "tipo": "portabilidade de crédito",
+    "conteudo": "C:  Tchau!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 1,
+    "data": "2024-10-27 10:00:00",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "Olá João, bem-vindo à EasyCred. Lamento ouvir que você está insatisfeito com o atendimento. Por favor, descreva o que aconteceu para que possamos ajudar."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 2,
+    "data": "2024-10-27 10:01:15",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "Oi! Liguei ontem (10:30) para tirar dúvidas sobre a solicitação do meu crédito e fui atendido por um atendente que não soube me ajudar e ainda foi grosseiro!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 3,
+    "data": "2024-10-27 10:02:42",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "Sinto muito por isso, João. Agradeço por detalhar. Posso anotar que você ligou no dia 26 às 10:30. Poderia me fornecer o nome do atendente, se possível?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 4,
+    "data": "2024-10-27 10:03:58",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "Não lembro o nome dele, mas ele se chamava 'Ricardo'. Ele disse que não era responsabilidade dele e foi muito seco com eu."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 5,
+    "data": "2024-10-27 10:04:51",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "Obrigado pelo detalhe, João. Registrei o horário e o nome (Ricardo). Entendo sua frustração. Estou investigando o ocorrido. Por favor, aguarde um momento enquanto verifico as informações."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 6,
+    "data": "2024-10-27 10:06:17",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "João, após verificar, identificamos que o Sr. Ricardo estava em treinamento naquele dia. Pedimos sinceras desculpas pela experiência negativa. Estamos tomando medidas para evitar que situações como essa se repitam."
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 7,
+    "data": "2024-10-27 10:07:32",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "Ah, entendi. Mas ainda assim, o atendimento foi péssimo.  Poderia me oferecer alguma compensação pelo transtorno?"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 8,
+    "data": "2024-10-27 10:08:29",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "João, compreendemos sua insatisfação.  Como forma de compensação, podemos oferecer um desconto de 10% na sua próxima solicitação de crédito.  Gostaria de aceitar essa oferta?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 9,
+    "data": "2024-10-27 10:09:45",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "Sim, aceito! Mas espero que o atendimento seja melhor na próxima vez."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 10,
+    "data": "2024-10-27 10:10:11",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "Perfeito, João!  O desconto de 10% já foi aplicado e estará disponível para sua solicitação.  Mais alguma coisa em que posso ajudar hoje?"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 11,
+    "data": "2024-10-27 10:11:28",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "Não, é só isso. Obrigado pela atenção."
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 12,
+    "data": "2024-10-27 10:12:39",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "Estamos à disposição, João.  Agradecemos por seu contato e compreensão. Tenha um bom dia!"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 13,
+    "data": "2024-10-27 10:13:55",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "Tchau!"
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 14,
+    "data": "2024-10-27 10:14:49",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "Até mais!"
+  },
+  {
+    "agente": "cliente",
+    "cliente_nome": "João da Silva",
+    "id": 15,
+    "data": "2024-10-27 10:15:22",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": " "
+  },
+  {
+    "agente": "bot",
+    "cliente_nome": "João da Silva",
+    "id": 16,
+    "data": "2024-10-27 10:16:11",
+    "tipo": "reclamação sobre atendimento",
+    "conteudo": "Caso necessite de suporte adicional, entre em contato conosco."
+  }
+]

@@ -1,9 +1,5 @@
-# Ignora tudo no diretório raiz
-/*
 
 # Não ignora o diretório "media" e seu conteúdo
-!/media/
-!/media/**
-
-# Não ignora o próprio arquivo .gitignore
-!.gitignore
+/codes/auth.py
+/docs
+/old
